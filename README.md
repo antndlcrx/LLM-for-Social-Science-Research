@@ -11,4 +11,4 @@ A domain specific LLM that would be a fit for social science applications.
 
 - [country] in some questions needs be replaced with the country of respondent
 
-
+- quality check: make sure no question value has "using this card"
