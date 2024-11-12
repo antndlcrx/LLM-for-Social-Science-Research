@@ -50,7 +50,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnfi": {
+  "rlgdnafi": {
     "description": "Religion or denomination belonging to at present, Finland",
     "question": "Which one? (Finland)",
     "values": {
@@ -131,7 +131,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnis": {
+  "rlgdnais": {
     "description": "Religion or denomination belonging to at present, Iceland",
     "question": "Which one? (Iceland)",
     "values": {
@@ -205,7 +205,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnl": {
+  "rlgdnanl": {
     "description": "Religion or denomination belonging to at present, Netherlands",
     "question": "Which one? (Netherlands)",
     "values": {
@@ -278,7 +278,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnsk": {
+  "rlgdnbsk": {
     "description": "Religion or denomination belonging to at present, Slovakia",
     "question": "Which one? (Slovakia)",
     "values": {
@@ -463,7 +463,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnls": {
+  "rlgdelt": {
     "description": "Religion or denomination belonging to in the past, Lithuania",
     "question": "Which one? (Lithuania)",
     "values": {
@@ -480,7 +480,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnmt": {
+  "rlgdeme": {
     "description": "Religion or denomination belonging to in the past, Montenegro",
     "question": "Which one? (Montenegro)",
     "values": {
@@ -499,7 +499,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnmk": {
+  "rlgdemk": {
     "description": "Religion or denomination belonging to in the past, North Macedonia",
     "question": "Which one? (North Macedonia)",
     "values": {
@@ -535,7 +535,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnsk": {
+  "rlgdebsk": {
     "description": "Religion or denomination belonging to in the past, Slovakia",
     "question": "Which one? (Slovakia)",
     "values": {
