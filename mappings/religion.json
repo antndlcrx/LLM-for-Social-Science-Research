@@ -50,7 +50,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnfi": {
+  "rlgdnafi": {
     "description": "Religion or denomination belonging to at present, Finland",
     "question": "Which one? (Finland)",
     "values": {
@@ -131,7 +131,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnis": {
+  "rlgdnais": {
     "description": "Religion or denomination belonging to at present, Iceland",
     "question": "Which one? (Iceland)",
     "values": {
@@ -205,7 +205,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnl": {
+  "rlgdnanl": {
     "description": "Religion or denomination belonging to at present, Netherlands",
     "question": "Which one? (Netherlands)",
     "values": {
@@ -278,7 +278,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnsk": {
+  "rlgdnbsk": {
     "description": "Religion or denomination belonging to at present, Slovakia",
     "question": "Which one? (Slovakia)",
     "values": {
@@ -463,7 +463,82 @@
       "9999": "No answer"
     }
   },
-  "rlgdnls": {
+  "rlgdeanl": {
+    "description": "Religion or denomination belonging to in the past, Netherlands",
+    "question": "Which one? (Netherlands)",
+    "values": {
+      "1": "Rooms Katholiek",
+      "2": "Protestant",
+      "3": "Protestantse Kerk in Nederland (PKN)",
+      "4": "NH: midden orthodoxe richting",
+      "5": "NH: confessionele richting",
+      "6": "NH: gereformeerde bond",
+      "7": "NH: vrijzinnige richting",
+      "8": "NH: overige richtingen",
+      "9": "NH: (geen verdere details gegeven)",
+      "10": "GF: gereformeerde kerken (synodaal)",
+      "11": "GF: gereformeerde kerken, vrijgemaakt (artikel 31)",
+      "12": "GF: Nederlands gereformeerde kerken (buiten verband)",
+      "13": "GF: christelijk gereformeerde kerk",
+      "14": "GF: gereformeerde gemeenten",
+      "15": "GF: oud gereformeerde gemeenten",
+      "16": "GF: overige richting",
+      "17": "GF: (geen verdere details gegeven)",
+      "18": "Evangelie gemeente/Pinkstergemeente",
+      "19": "Ander protestants kerkgenootschap",
+      "20": "Oosters Orthodox Christelijke Kerk",
+      "21": "Ander christelijk kerkgenootschap",
+      "22": "Hindoeïsme",
+      "23": "Boeddhisme",
+      "24": "Andere Oosterse religie",
+      "25": "Jodendom",
+      "26": "Islam/Moslim",
+      "27": "Humanistisch Verbond",
+      "28": "Andere niet-christelijke religies",
+      "6666": "Not applicable",
+      "7777": "Refusal",
+      "9999": "No answer"
+    }
+  },
+"rlgdeais": {
+    "description": "Religion or denomination belonging to in the past, Iceland",
+    "question": "Which one? (Iceland)",
+    "values": {
+      "1": "Kaþólsku kirkjunni",
+      "2": "Þjóðkirkjunni",
+      "3": "Fríkirkjunni",
+      "4": "Öðru kristnu trúfélagi innan lúthersku",
+      "5": "Rétttrúnaðarkirkju",
+      "6": "Öðru trúfélagi utan lúthersku",
+      "7": "Íslamstrú",
+      "8": "Gyðingatrú",
+      "9": "Austrænum trúarbrögðum",
+      "10": "Ásatrúarfélaginu",
+      "11": "Öðrum trúarbrögðum utan kristni",
+      "6666": "Not applicable",
+      "7777": "Refusal",
+      "9999": "No answer"
+    }
+  },
+  "rlgdeie": {
+    "description": "Religion or denomination belonging to in the past, Ireland",
+    "question": "Which one? (Ireland)",
+    "values": {
+      "1": "Roman Catholic",
+      "3": "Orthodox",
+      "4": "Other Christian denomination",
+      "5": "Jewish",
+      "6": "Islam",
+      "7": "Eastern religions (Buddhist, Hindu etc.)",
+      "8": "Other Non-Christian religions",
+      "210": "Church of Ireland",
+      "290": "Other Protestant",
+      "6666": "Not applicable",
+      "7777": "Refusal",
+      "9999": "No answer"
+    }
+  },
+  "rlgdelt": {
     "description": "Religion or denomination belonging to in the past, Lithuania",
     "question": "Which one? (Lithuania)",
     "values": {
@@ -480,7 +555,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnmt": {
+  "rlgdeme": {
     "description": "Religion or denomination belonging to in the past, Montenegro",
     "question": "Which one? (Montenegro)",
     "values": {
@@ -499,7 +574,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnmk": {
+  "rlgdemk": {
     "description": "Religion or denomination belonging to in the past, North Macedonia",
     "question": "Which one? (North Macedonia)",
     "values": {
@@ -535,7 +610,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnsk": {
+  "rlgdebsk": {
     "description": "Religion or denomination belonging to in the past, Slovakia",
     "question": "Which one? (Slovakia)",
     "values": {

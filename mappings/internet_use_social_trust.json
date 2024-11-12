@@ -163,7 +163,7 @@
   },
   "trstprl": {
     "description": "Trust in country's parliament",
-    "question": "[country]'s parliament?",
+    "question": "How much do you personally trust the country's parliament?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -183,7 +183,7 @@
   },
   "trstlgl": {
     "description": "Trust in the legal system",
-    "question": "The legal system?",
+    "question": "How much do you personally trust the legal system?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -203,7 +203,7 @@
   },
   "trstplc": {
     "description": "Trust in the police",
-    "question": "The police?",
+    "question": "How much do you personally trust the police?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -223,7 +223,7 @@
   },
   "trstplt": {
     "description": "Trust in politicians",
-    "question": "Politicians?",
+    "question": "How much do you personally trust politicians?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -243,7 +243,7 @@
   },
   "trstprt": {
     "description": "Trust in political parties",
-    "question": "Political parties?",
+    "question": "How much do you personally trust political parties?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -263,7 +263,7 @@
   },
   "trstep": {
     "description": "Trust in the European Parliament",
-    "question": "The European Parliament?",
+    "question": "How much do you personally trust the European Parliament?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -283,7 +283,7 @@
   },
   "trstun": {
     "description": "Trust in the United Nations",
-    "question": "The United Nations?",
+    "question": "How much do you personally trust the United Nations?",
     "values": {
       "0": "No trust at all",
       "1": "1",
@@ -303,7 +303,7 @@
   },
   "trstsci": {
     "description": "Trust in scientists",
-    "question": "Scientists?",
+    "question": "How much do you personally trust scientists?",
     "values": {
       "0": "No trust at all",
       "1": "1",

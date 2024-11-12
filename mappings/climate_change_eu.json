@@ -50,17 +50,6 @@
       "9": "No answer"
     }
   },
-  "admrclc": {
-    "description": "Administration of reduce climate change",
-    "question": "Administration to reduce climate change",
-    "values": {
-      "1": "Group 1",
-      "2": "Group 2",
-      "3": "Group 3",
-      "6": "Not applicable",
-      "9": "Not available"
-    }
-  },
   "testic34": {
     "description": "Imagine large numbers of people limit energy use, how likely reduce climate change",
     "question": "Now imagine that large numbers of people limited their energy use. How likely do you think it is that this would reduce climate change?",
