@@ -1,4 +1,21 @@
 {
+"essround": {
+    "description": "Year",
+    "question": "What year is it now?",
+    "values": {
+      "1": "2002",
+      "2": "2004",
+      "3": "2006",
+      "4": "2008",
+      "5": "2010",
+      "6": "2012",
+      "7": "2014",
+      "8": "2016",
+      "9": "2018",
+      "10": "2020",
+      "11": "2023"
+    }
+  },    
 "cntry": {
     "description": "Country",
     "question": "What is your country?",
