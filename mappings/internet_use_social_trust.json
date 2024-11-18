@@ -1,6 +1,6 @@
 {
   "nwspol": {
-    "description": "News about politics and current affairs, watching, reading or listening, in minutes",
+    "description": "News about politics and current affairs, watching, reading or listening, in minutes on a typical day",
     "question": "On a typical day, about how much time do you spend watching, reading or listening to news about politics and current affairs?",
     "values": {
       "7777": "Refusal",
