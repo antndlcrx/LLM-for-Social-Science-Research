@@ -186,7 +186,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnme": {
+  "rlgdme": {
     "description": "Religion or denomination belonging to at present, Montenegro",
     "question": "Which one? (Montenegro)",
     "values": {
@@ -342,7 +342,7 @@
       "9": "No answer"
     }
   },
-  "rlgdnme": {
+  "rlgdeme": {
     "description": "Religion or denomination belonging to in the past",
     "question": "Which one?",
     "values": {
@@ -592,7 +592,7 @@
       "9999": "No answer"
     }
   },
-  "rlgdnno": {
+  "rlgdeno": {
     "description": "Religion or denomination belonging to in the past, Norway",
     "question": "Which one? (Norway)",
     "values": {
