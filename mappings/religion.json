@@ -12,7 +12,7 @@
   },
   "rlgdnm": {
     "description": "Religion or denomination belonging to at present",
-    "question": "Which one?",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Roman Catholic",
       "2": "Protestant",
@@ -29,7 +29,7 @@
   },
   "rlgdnach": {
     "description": "Religion or denomination belonging to at present, Switzerland",
-    "question": "Which one? (Switzerland)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "110": "Roman Catholic",
       "190": "Other Catholic, denomination not specified",
@@ -52,7 +52,7 @@
   },
   "rlgdnafi": {
     "description": "Religion or denomination belonging to at present, Finland",
-    "question": "Which one? (Finland)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Evangelical Lutheran",
       "2": "Eastern Orthodox",
@@ -75,7 +75,7 @@
   },
   "rlgdnagr": {
     "description": "Religion or denomination belonging to at present, Greece",
-    "question": "Which one? (Greece)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Roman Catholic",
       "2": "Protestant",
@@ -100,7 +100,7 @@
   },
   "rlgdnhu": {
     "description": "Religion or denomination belonging to at present, Hungary",
-    "question": "Which one? (Hungary)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "110": "Catholic (Roman)",
       "120": "Catholic (Orthodox)",
@@ -133,7 +133,7 @@
   },
   "rlgdnais": {
     "description": "Religion or denomination belonging to at present, Iceland",
-    "question": "Which one? (Iceland)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Kaþólsku kirkjunni",
       "2": "Þjóðkirkjunni",
@@ -153,7 +153,7 @@
   },
   "rlgdnie": {
     "description": "Religion or denomination belonging to at present, Ireland",
-    "question": "Which one? (Ireland)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Roman Catholic",
       "3": "Orthodox",
@@ -171,7 +171,7 @@
   },
   "rlgdnlt": {
     "description": "Religion or denomination belonging to at present, Lithuania",
-    "question": "Which one? (Lithuania)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Roman Catholic",
       "2": "Eastern Orthodox",
@@ -188,7 +188,7 @@
   },
   "rlgdme": {
     "description": "Religion or denomination belonging to at present, Montenegro",
-    "question": "Which one? (Montenegro)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Roman Catholic",
       "2": "Protestant",
@@ -207,7 +207,7 @@
   },
   "rlgdnanl": {
     "description": "Religion or denomination belonging to at present, Netherlands",
-    "question": "Which one? (Netherlands)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Rooms Katholiek",
       "2": "Protestant",
@@ -244,7 +244,7 @@
   },
   "rlgdnmk": {
     "description": "Religion or denomination belonging to at present, North Macedonia",
-    "question": "Which one? (North Macedonia)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Macedonian Orthodox",
       "2": "Other Eastern Orthodox",
@@ -262,7 +262,7 @@
   },
   "rlgdnno": {
     "description": "Religion or denomination belonging to at present, Norway",
-    "question": "Which one? (Norway)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Den norske kirke",
       "2": "Katolsk kirke",
@@ -280,7 +280,7 @@
   },
   "rlgdnbsk": {
     "description": "Religion or denomination belonging to at present, Slovakia",
-    "question": "Which one? (Slovakia)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Greek Catholic",
       "2": "Lutheran, Evangelical Church",
@@ -303,7 +303,7 @@
   },
   "rlgdngb": {
     "description": "Religion or denomination belonging to at present, United Kingdom",
-    "question": "Which one? (United Kingdom)",
+    "question": "Which religion or denomination do you belong to at present?",
     "values": {
       "1": "Roman Catholic",
       "2": "Church of England / Anglican",
@@ -344,7 +344,7 @@
   },
   "rlgdeme": {
     "description": "Religion or denomination belonging to in the past",
-    "question": "Which one?",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Roman Catholic",
       "2": "Protestant",
@@ -361,7 +361,7 @@
   },
   "rlgdeach": {
     "description": "Religion or denomination belonging to in the past, Switzerland",
-    "question": "Which one? (Switzerland)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "110": "Roman Catholic",
       "190": "Other Catholic, denomination not specified",
@@ -384,7 +384,7 @@
   },
   "rlgdeafi": {
     "description": "Religion or denomination belonging to in the past, Finland",
-    "question": "Which one? (Finland)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Evangelical Lutheran",
       "2": "Eastern Orthodox",
@@ -407,7 +407,7 @@
   },
   "rlgdeagr": {
     "description": "Religion or denomination belonging to in the past, Greece",
-    "question": "Which one? (Greece)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Roman Catholic",
       "2": "Protestant",
@@ -432,7 +432,7 @@
   },
   "rlgdehu": {
     "description": "Religion or denomination belonging to in the past, Hungary",
-    "question": "Which one? (Hungary)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "110": "Catholic (Roman)",
       "120": "Catholic (Orthodox)",
@@ -465,7 +465,7 @@
   },
   "rlgdeanl": {
     "description": "Religion or denomination belonging to in the past, Netherlands",
-    "question": "Which one? (Netherlands)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Rooms Katholiek",
       "2": "Protestant",
@@ -502,7 +502,7 @@
   },
 "rlgdeais": {
     "description": "Religion or denomination belonging to in the past, Iceland",
-    "question": "Which one? (Iceland)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Kaþólsku kirkjunni",
       "2": "Þjóðkirkjunni",
@@ -522,7 +522,7 @@
   },
   "rlgdeie": {
     "description": "Religion or denomination belonging to in the past, Ireland",
-    "question": "Which one? (Ireland)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Roman Catholic",
       "3": "Orthodox",
@@ -540,7 +540,7 @@
   },
   "rlgdelt": {
     "description": "Religion or denomination belonging to in the past, Lithuania",
-    "question": "Which one? (Lithuania)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Roman Catholic",
       "2": "Eastern Orthodox",
@@ -576,7 +576,7 @@
   },
   "rlgdemk": {
     "description": "Religion or denomination belonging to in the past, North Macedonia",
-    "question": "Which one? (North Macedonia)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Macedonian Orthodox",
       "2": "Other Eastern Orthodox",
@@ -594,7 +594,7 @@
   },
   "rlgdeno": {
     "description": "Religion or denomination belonging to in the past, Norway",
-    "question": "Which one? (Norway)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Den norske kirke",
       "2": "Katolsk kirke",
@@ -612,7 +612,7 @@
   },
   "rlgdebsk": {
     "description": "Religion or denomination belonging to in the past, Slovakia",
-    "question": "Which one? (Slovakia)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Greek Catholic",
       "2": "Lutheran, Evangelical Church",
@@ -635,7 +635,7 @@
   },
   "rlgdegb": {
     "description": "Religion or denomination belonging to in the past, United Kingdom",
-    "question": "Which one? (United Kingdom)",
+    "question": "Which religion or denomination did you belong to in the past?",
     "values": {
       "1": "Roman Catholic",
       "2": "Church of England / Anglican",
