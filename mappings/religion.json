@@ -1,15 +1,4 @@
 {
-  "rlgblg": {
-    "description": "Belonging to particular religion or denomination",
-    "question": "Do you consider yourself as belonging to any particular religion or denomination?",
-    "values": {
-      "1": "Yes",
-      "2": "No",
-      "7": "Refusal",
-      "8": "Don't know",
-      "9": "No answer"
-    }
-  },
   "rlgdnm": {
     "description": "Religion or denomination belonging to at present",
     "question": "Which religion or denomination do you belong to at present?",
