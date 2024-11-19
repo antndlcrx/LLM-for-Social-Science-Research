@@ -82,14 +82,6 @@
       "1": "Marked"
     }
   },
-  "dscroth": {
-    "description": "Discrimination of respondent's group: other grounds",
-    "question": "On what grounds is your group discriminated against? Other",
-    "values": {
-      "0": "Not marked",
-      "1": "Marked"
-    }
-  },
   "ctzcntr": {
     "description": "Citizen of country",
     "question": "Are you a citizen of [country]?",
