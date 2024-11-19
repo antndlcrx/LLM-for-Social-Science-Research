@@ -190,18 +190,6 @@
       "9": "No answer"
     }
   },
-  "uemp5yr": {
-    "description": "Any period of unemployment and work seeking within last 5 years",
-    "question": "Have any of these periods been within the past 5 years?",
-    "values": {
-      "1": "Yes",
-      "2": "No",
-      "6": "Not applicable",
-      "7": "Refusal",
-      "8": "Don't know",
-      "9": "No answer"
-    }
-  },
   "mbtru": {
     "description": "Member of trade union or similar organisation",
     "question": "Are you or have you ever been a member of a trade union or similar organisation?",
