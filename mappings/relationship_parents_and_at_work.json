@@ -41,7 +41,7 @@
   },
   "agepnt": {
     "description": "Age of parent",
-    "question": "How old is {he/she}?",
+    "question": "How old is your parent?",
     "values": {
       "666": "Not applicable",
       "777": "Refusal",
@@ -51,7 +51,7 @@
   },
   "hhlipnt": {
     "description": "Parent lives in same household",
-    "question": "Does {he/she} live in the same household as you?",
+    "question": "Does your parent live in the same household as you?",
     "values": {
       "1": "Yes",
       "2": "No",
@@ -63,7 +63,7 @@
   },
   "closepnt": {
     "description": "How close to parent",
-    "question": "Taking everything into consideration, how close do you feel to {him/her}?",
+    "question": "Taking everything into consideration, how close do you feel to your parent?",
     "values": {
       "1": "Extremely close",
       "2": "Very close",
@@ -78,7 +78,7 @@
   },
   "ttminpnt": {
     "description": "Travel time to parent, in minutes",
-    "question": "About how long would it take you to get to where {he/she} lives, on average?",
+    "question": "About how long would it take you to get to where your parent lives, on average?",
     "values": {
       "6666": "Not applicable",
       "7777": "Refusal",
@@ -88,7 +88,7 @@
   },
   "speakpnt": {
     "description": "Speak with parent in person, how often",
-    "question": "How often do you speak with {him/her} in person?",
+    "question": "How often do you speak with your parent in person?",
     "values": {
       "1": "Several times a day",
       "2": "Once a day",
@@ -105,7 +105,7 @@
   },
   "scrnpnt": {
     "description": "Speak with parent and see each other on a screen, how often",
-    "question": "How often do you speak with {him/her} such that you can see each other on a screen?",
+    "question": "How often do you speak with your parent such that you can see each other on a screen?",
     "values": {
       "1": "Several times a day",
       "2": "Once a day",
@@ -122,7 +122,7 @@
   },
   "phonepnt": {
     "description": "Speak with parent using a phone, how often",
-    "question": "How often do you speak with {him/her} using a phone or other device?",
+    "question": "How often do you speak with your parent using a phone or other device?",
     "values": {
       "1": "Several times a day",
       "2": "Once a day",
@@ -139,7 +139,7 @@
   },
   "compnt": {
     "description": "Communicate with parent via text, email or messaging apps, how often",
-    "question": "How often do you communicate with each other via text, email or messaging apps?",
+    "question": "How often do you and your parent communicate with each other via text, email or messaging apps?",
     "values": {
       "1": "Several times a day",
       "2": "Once a day",
@@ -156,7 +156,7 @@
   },
   "c19sppnt": {
     "description": "Speak with parent in person, how often compared with before COVID-19",
-    "question": "Compared with before the coronavirus pandemic, would you say that you speak with {him/her} in person...",
+    "question": "Compared with before the coronavirus pandemic, would you say that you speak with your parent in person...",
     "values": {
       "1": "Much more often now",
       "2": "A little more often now",
@@ -208,7 +208,7 @@
   },
   "trdawrk": {
     "description": "Too tired after work to enjoy things like doing at home, how often",
-    "question": "Using this card, how often do you feel too tired after work to enjoy the things you would like to do at home?",
+    "question": "How often do you feel too tired after work to enjoy the things you would like to do at home?",
     "values": {
       "1": "Never",
       "2": "Hardly ever",
@@ -223,7 +223,7 @@
   },
   "jbprtfp": {
     "description": "Job prevents you from giving time to partner/family, how often",
-    "question": "Using this card, how often do you find that your job prevents you from giving the time you want to your partner or family?",
+    "question": "How often do you find that your job prevents you from giving the time you want to your partner or family?",
     "values": {
       "1": "Never",
       "2": "Hardly ever",
@@ -239,7 +239,7 @@
   },
   "pfmfdjba": {
     "description": "Partner/family fed up with pressure of your job, how often",
-    "question": "Using this card, how often do you find that your partner or family gets fed up with the pressure of your job?",
+    "question": "How often do you find that your partner or family gets fed up with the pressure of your job?",
     "values": {
       "1": "Never",
       "2": "Hardly ever",
