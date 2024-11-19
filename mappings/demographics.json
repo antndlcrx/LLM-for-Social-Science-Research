@@ -80,15 +80,6 @@
       "9": "No answer"
     }
   },
-  "yrbrn": {
-    "description": "Year of birth",
-    "question": "In what year were you born?",
-    "values": {
-      "7777": "Refusal",
-      "8888": "Don't know",
-      "9999": "No answer"
-    }
-  },
   "agea": {
     "description": "Age of respondent, calculated",
     "question": "What is your age?",
@@ -165,7 +156,7 @@
   },
   "domicil": {
     "description": "Domicile, respondent's description",
-    "question": "Which phrase on this card best describes the area where you live?",
+    "question": "Which category best describes the area where you live?",
     "values": {
       "1": "A big city",
       "2": "Suburbs or outskirts of big city",
@@ -193,38 +184,6 @@
       "77": "Refusal",
       "88": "Don't know",
       "99": "No answer"
-    }
-  },
-  "pdwrk": {
-    "description": "Doing last 7 days: paid work",
-    "question": "In the last 7 days, which of these descriptions applies to what you have been doing?",
-    "values": {
-      "0": "Not marked",
-      "1": "Marked"
-    }
-  },
-  "edctn": {
-    "description": "Doing last 7 days: education",
-    "question": "In the last 7 days, which of these descriptions applies to what you have been doing?",
-    "values": {
-      "0": "Not marked",
-      "1": "Marked"
-    }
-  },
-  "uempla": {
-    "description": "Doing last 7 days: unemployment",
-    "question": "In the last 7 days, which of these descriptions applies to what you have been doing?",
-    "values": {
-      "0": "Not marked",
-      "1": "Marked"
-    }
-  },
-  "dngna": {
-    "description": "Doing last 7 days: no answer",
-    "question": "In the last 7 days, which of these descriptions applies to what you have been doing?",
-    "values": {
-      "0": "Not marked",
-      "1": "Marked"
     }
   },
   "mainact": {
