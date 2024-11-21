@@ -115,6 +115,109 @@
       "9": "No answer"
     }
   },
+  "ctrlife": {
+    "description": "How much control over life in general nowadays",
+    "question": "How much control do you feel you have over your life in general nowadays?",
+    "values": {
+      "0": "No control at all",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Complete control",
+      "77": "Refusal",
+      "88": "Don't know",
+      "99": "No answer"
+    }
+  },
+  "etfruit": {
+    "description": "How often eat fruit, excluding drinking juice",
+    "question": "How often do you eat fruit, excluding drinking juice?",
+    "values": {
+      "1": "Three times or more a day",
+      "2": "Twice a day",
+      "3": "Once a day",
+      "4": "Less than once a day but at least 4 times a week",
+      "5": "Less than 4 times a week but at least once a week",
+      "6": "Less than once a week",
+      "7": "Never",
+      "77": "Refusal",
+      "88": "Don't know",
+      "99": "No answer"
+    }
+  },
+  "eatveg": {
+    "description": "How often eat vegetables or salad, excluding potatoes",
+    "question": "How often do you eat vegetables or salad, excluding potatoes?",
+    "values": {
+      "1": "Three times or more a day",
+      "2": "Twice a day",
+      "3": "Once a day",
+      "4": "Less than once a day but at least 4 times a week",
+      "5": "Less than 4 times a week but at least once a week",
+      "6": "Less than once a week",
+      "7": "Never",
+      "77": "Refusal",
+      "88": "Don't know",
+      "99": "No answer"
+    }
+  },
+  "dosprt": {
+    "description": "Do sports or other physical activity, how many of last 7 days",
+    "question": "On how many of the last 7 days did you do sports or other physical activity?",
+    "values": {
+      "77": "Refusal",
+      "88": "Don't know",
+      "99": "No answer"
+    }
+  },
+  "cgtsmok": {
+    "description": "Cigarettes smoking behaviour",
+    "question": "Which of the following best describes your cigarette smoking behaviour?",
+    "values": {
+      "1": "I smoke daily, 10 or more cigarettes",
+      "2": "I smoke daily, 9 or fewer cigarettes",
+      "3": "I smoke but not every day",
+      "4": "I don’t smoke now but I used to",
+      "5": "I have only smoked a few times",
+      "6": "I have never smoked",
+      "7": "Refusal",
+      "8": "Don't know",
+      "9": "No answer"
+    }
+  },
+  "alcfreq": {
+    "description": "How often drink alcohol",
+    "question": "How often do you drink alcohol?",
+    "values": {
+      "1": "Every day",
+      "2": "Several times a week",
+      "3": "Once a week",
+      "4": "2-3 times a month",
+      "5": "Once a month",
+      "6": "Less than once a month",
+      "7": "Never",
+      "77": "Refusal",
+      "88": "Don't know",
+      "99": "No answer"
+    }
+  },
+  "alcwkdy": {
+    "description": "Grams alcohol, last time drinking on a weekday, Monday to Thursday",
+    "question": "How many grams of alcohol did you drink the last time you drank on a weekday (Monday to Thursday)?",
+    "values": {
+      "5555": "Never drink alcohol Monday to Thursday",
+      "6666": "Not applicable",
+      "7777": "Refusal",
+      "8888": "Don't know",
+      "9999": "No answer"
+    }
+  },
   "atchctr": {
     "description": "How emotionally attached to [country]",
     "question": "How emotionally attached do you feel to [country]? Please choose a number from 0 to 10, where 0 means not at all emotionally attached and 10 means very emotionally attached.",
