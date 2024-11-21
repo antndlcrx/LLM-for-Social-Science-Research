@@ -91,26 +91,6 @@
       "99": "No answer"
     }
   },
-  "prtvgde2": {
-    "description": "Party voted for in last national election 2, Germany",
-    "question": "Which party did you vote for in that election? (Germany 2)",
-    "values": {
-      "1": "Christian Democratic Union/Christian Social Union (CDU/CSU)",
-      "2": "Social Democratic Party (SPD)",
-      "3": "The Left (Die Linke)",
-      "4": "Alliance 90/The Greens (Bündnis 90/Die Grünen)",
-      "5": "Free Democratic Party (FDP)",
-      "6": "Alternative for Germany (AFD)",
-      "7": "Free Voters (Freie Wähler)",
-      "8": "Grassroots Democratic Party of Germany (dieBasis)",
-      "9": "Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassroots Democratic Initiative (Die PARTEI)",
-      "55": "Other",
-      "66": "Not applicable",
-      "77": "Refusal",
-      "88": "Don't know",
-      "99": "No answer"
-    }
-  },
   "prtvthhu": {
     "description": "Party voted for in last national election, Hungary",
     "question": "Which party did you vote for in that election? (Hungary)",
