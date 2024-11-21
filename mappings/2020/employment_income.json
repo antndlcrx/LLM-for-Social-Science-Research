@@ -221,7 +221,7 @@
   },
   "hinctnta": {
     "description": "Household's total net income, all sources",
-    "question": "Using this card, please tell me which letter describes your household's total income, after tax and compulsory deductions, from all sources?",
+    "question": "Which letter describes your household's total income, after tax and compulsory deductions, from all sources?",
     "values": {
       "1": "1st decile",
       "2": "2nd decile",
