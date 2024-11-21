@@ -1,4 +1,16 @@
 {
+ "nobingnd": {
+    "description": "Non-binary gender: which option respondent says best describes them",
+    "question": "Which option best describes your gender?",
+    "values": {
+      "1": "A man",
+      "2": "A woman",
+      "3": "Other",
+      "7": "Prefer not to answer",
+      "8": "Don't know",
+      "9": "No answer"
+    }
+  },
   "mascfel": {
     "description": "How masculine respondent feels",
     "question": "How masculine do you feel?",
