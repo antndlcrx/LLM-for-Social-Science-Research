@@ -1,4 +1,68 @@
 {
+  "likrisk": {
+    "description": "I like to take risks, to what extent",
+    "question": "To what extent do you like to take risks?",
+    "values": {
+      "0": "Not at all",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "Completely",
+      "7": "Refusal",
+      "8": "Don't know",
+      "9": "No answer"
+    }
+  },
+  "liklead": {
+    "description": "I like to be a leader, to what extent",
+    "question": "To what extent do you like to be a leader?",
+    "values": {
+      "0": "Not at all",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "Completely",
+      "7": "Refusal",
+      "8": "Don't know",
+      "9": "No answer"
+    }
+  },
+  "sothnds": {
+    "description": "I am sensitive to others’ needs",
+    "question": "To what extent are you sensitive to others' needs?",
+    "values": {
+      "0": "Not at all",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "Completely",
+      "7": "Refusal",
+      "8": "Don't know",
+      "9": "No answer"
+    }
+  },
+  "actcomp": {
+    "description": "I act compassionately towards others, to what extent",
+    "question": "To what extent do you act compassionately towards others?",
+    "values": {
+      "0": "Not at all",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "Completely",
+      "7": "Refusal",
+      "8": "Don't know",
+      "9": "No answer"
+    }
+  },
   "ipcrtiv": {
     "description": "Important to think new ideas and being creative",
     "question": "I will briefly describe a person. Please tell me how much this person is or is not like you. Thinking up new ideas and being creative is important to her/him. She/he likes to do things in her/his own original way.",
