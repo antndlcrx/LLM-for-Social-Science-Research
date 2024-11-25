@@ -1,0 +1,251 @@
+{
+  "Q50A": {
+    "question": "Now let's speak about the performance of the present government of this country. How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Managing the economy?",
+    "description": "Q50a. Handling managing the economy",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50B": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Improving the living standards of the poor?",
+    "description": "Q50b. Handling improving living standards of the poor",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50C": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Creating jobs?",
+    "description": "Q50c. Handling creating jobs",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50D": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Keeping prices stable?",
+    "description": "Q50d. Handling keeping prices stable",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50E": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Narrowing gaps between rich and poor?",
+    "description": "Q50e. Handling narrowing gaps between rich and poor",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50F": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Reducing crime?",
+    "description": "Q50f. Handling reducing crime",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50G": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Improving basic health services?",
+    "description": "Q50g. Handling improving basic health services",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50H": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Addressing educational needs?",
+    "description": "Q50h. Handling addressing educational needs",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50I": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Providing water and sanitation services?",
+    "description": "Q50i. Handling providing water and sanitation services",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50J": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Fighting corruption in government?",
+    "description": "Q50j. Handling fighting corruption in government",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50K": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Maintaining roads and bridges?",
+    "description": "Q50k. Handling maintaining roads and bridges",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50L": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Providing a reliable supply of electricity?",
+    "description": "Q501. Handling providing a reliable supply of electricity",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50M": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Preventing or resolving violent conflict?",
+    "description": "Q50m. Handling preventing or resolving violent conflict",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50N": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Addressing the needs of young people?",
+    "description": "Q50n. Handling addressing needs of young people",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q50O": {
+    "question": "How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: Protecting rights and promoting opportunities for disabled people?",
+    "description": "Q500. Handling protecting rights and promoting opportunities for disabled",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q51A": {
+    "question": "Do you approve or disapprove of the way the following people have performed their jobs over the past 12 months, or haven't you heard enough about them to say: President [J.A. Kufuor]?",
+    "description": "Q51a. Performance: President",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Approve",
+      "4": "Strongly approve",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q51B": {
+    "question": "Do you approve or disapprove of the way the following people have performed their jobs over the past 12 months, or haven't you heard enough about them to say: Your Member of Parliament?",
+    "description": "Q51b. Performance: MP/National Assembly rep",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Approve",
+      "4": "Strongly approve",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q51C": {
+    "question": "Do you approve or disapprove of the way the following people have performed their jobs over the past twelve months, or haven't you heard enough about them to say: Your elected local government councilor?",
+    "description": "Q51c. Performance: local government councilor",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Approve",
+      "4": "Strongly approve",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "-1": "Missing"
+    }
+  },
+  "Q51D": {
+    "question": "Do you approve or disapprove of the way the following people have performed their jobs over the past twelve months, or haven't you heard enough about them to say: Your traditional leader?",
+    "description": "Q51d. Performance: traditional leader",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Approve",
+      "4": "Strongly approve",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "94": "Not asked in the country",
+      "-1": "Missing"
+    }
+  }
+}

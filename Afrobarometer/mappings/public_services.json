@@ -1,0 +1,512 @@
+{
+  "Q44A": {
+    "question": "Now I would like to talk to you about experiences that some people have in accessing certain essential government services. In the past 12 months have you had contact with a public school?",
+    "description": "Q44a. Contact with public school",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44B": {
+    "question": "How easy or difficult was it to obtain the services you needed from teachers or school officials?",
+    "description": "Q44b. Difficulty to obtain public school services",
+    "values": {
+      "1": "Very easy",
+      "2": "Easy",
+      "3": "Difficult",
+      "4": "Very difficult",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44C": {
+    "question": "And how often, if ever, did you have to pay a bribe, give a gift, or do a favour for a teacher or school official in order to get the services you needed from the schools?",
+    "description": "Q44c. Pay bribe for public school services",
+    "values": {
+      "0": "Never",
+      "1": "Once or twice",
+      "2": "A few times",
+      "3": "Often",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44D": {
+    "question": "In the past 12 months have you had contact with a public clinic or hospital?",
+    "description": "Q44d. Contact with public clinic or hospital",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44E": {
+    "question": "How easy or difficult was it to obtain the medical care you needed?",
+    "description": "Q44e. Difficulty to obtain medical care",
+    "values": {
+      "1": "Very easy",
+      "2": "Easy",
+      "3": "Difficult",
+      "4": "Very difficult",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44F": {
+    "question": "And how often, if ever, did you have to pay a bribe, give a gift, or do a favour for a health worker or clinic or hospital staff in order to get the medical care you needed?",
+    "description": "Q44f. Pay bribe for medical care",
+    "values": {
+      "0": "Never",
+      "1": "Once or twice",
+      "2": "A few times",
+      "3": "Often",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44G": {
+    "question": "In the past 12 months have you tried to get an identity document like a birth certificate, driver's license, passport or voter's card, or a permit, from government?",
+    "description": "Q44g. Tried to obtain identity document",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44H": {
+    "question": "How easy or difficult was it to obtain the document you needed?",
+    "description": "Q44h. Difficulty to obtain identity document",
+    "values": {
+      "1": "Very easy",
+      "2": "Easy",
+      "3": "Difficult",
+      "4": "Very difficult",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44I": {
+    "question": "And how often, if ever, did you have to pay a bribe, give a gift, or do a favour for a government official in order to get the document you needed?",
+    "description": "Q44i. Pay bribe for identity document",
+    "values": {
+      "0": "Never",
+      "1": "Once or twice",
+      "2": "A few times",
+      "3": "Often",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44J": {
+    "question": "In the past 12 months have you requested assistance from the police?",
+    "description": "Q44j. Requested police assistance",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44K": {
+    "question": "How easy or difficult was it to obtain the assistance you needed?",
+    "description": "Q44k. Difficulty to obtain police assistance",
+    "values": {
+      "1": "Very easy",
+      "2": "Easy",
+      "3": "Difficult",
+      "4": "Very difficult",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44L": {
+    "question": "And how often, if ever, did you have to pay a bribe, give a gift, or do a favour for a police officer in order to get the assistance you needed.",
+    "description": "Q44l. Pay bribe to receive police assistance",
+    "values": {
+      "0": "Never",
+      "1": "Once or twice",
+      "2": "A few times",
+      "3": "Often",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44M": {
+    "question": "In the past 12 months, how often have you encountered the police in other situations, like at checkpoints, during identity checks or traffic stops, or during an investigation?",
+    "description": "Q44m. Contact with police in other situations",
+    "values": {
+      "0": "Never",
+      "1": "Once or twice",
+      "2": "A few times",
+      "3": "Often",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q44N": {
+    "question": "How often, if ever did you have to pay a bribe, give a gift, or do a favour for a police officer in order to avoid a problem during one of these encounters.",
+    "description": "Q44n. Pay bribe to avoid problem with police",
+    "values": {
+      "0": "Never",
+      "1": "Once or twice",
+      "2": "A few times",
+      "3": "Often",
+      "7": "No contact",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q45": {
+    "question": "Now let us talk about the tax system in this country. Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: It is better to pay higher taxes if it means that there will be more services provided by government. Statement 2: It is better to pay lower taxes, even if it means there will be fewer services provided by government.",
+    "description": "Q45. Higher taxes with more govt services vs. lower taxes with fewer govt services.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q46A": {
+    "question": "Based on your experience, how easy or difficult is it to do each of the following: To find out what taxes and fees you are supposed to pay to the government?",
+    "description": "Q46a. Difficulty to find out what taxes or fees to pay",
+    "values": {
+      "1": "Very easy",
+      "2": "Easy",
+      "3": "Difficult",
+      "4": "Very difficult",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q46B": {
+    "question": "Based on your experience, how easy or difficult is it to do each of the following: To find out how government uses the revenues from people's taxes and fees?",
+    "description": "Q46b. Difficulty to find out how government uses tax revenues.",
+    "values": {
+      "1": "Very easy",
+      "2": "Easy",
+      "3": "Difficult",
+      "4": "Very difficult",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q46C": {
+    "question": "Do you think that the amount of taxes that ordinary people in [Botswana] are required to pay to the government is too little, too much, or about the right amount?",
+    "description": "Q46c. Taxes for ordinary people: too little, too much, or about the right amount",
+    "values": {
+      "1": "Far too little",
+      "2": "Somewhat too little",
+      "3": "About the right amount",
+      "4": "Somewhat too much",
+      "5": "Far too much",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q46D": {
+    "question": "Do you think that the amount of taxes that rich people in [Botswana] are required to pay to the government is too little, too much, or about the right amount?",
+    "description": "Q46d. Taxes for the rich: too little, too much, or about the right amount.",
+    "values": {
+      "1": "Far too little",
+      "2": "Somewhat too little",
+      "3": "About the right amount",
+      "4": "Somewhat too much",
+      "5": "Far too much",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q47A": {
+    "question": "Do you agree or disagree with each of the following statements: Government should make sure small traders and other people working in the informal sector pay taxes on their businesses?",
+    "description": "Q47a. Government should ensure small traders and informal sector pay taxes",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q47B": {
+    "question": "Do you agree or disagree with each of the following statements: It is fair to tax rich people at a higher rate than ordinary people in order to help pay for government programs to benefit the poor.",
+    "description": "Q47b. Fairness of high taxes for the rich to help the poor.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q47C": {
+    "question": "Do you agree or disagree with each of the following statements: The government usually uses the tax revenues it collects for the well-being of citizens.",
+    "description": "Q47c. Taxes used by government for the well-being of citizens.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q47D": {
+    "question": "In your opinion, how often, in this country, do people avoid paying the taxes that they owe the government?",
+    "description": "Q47d. People avoid paying taxes",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q48pt1": {
+    "question": "In your opinion, what are the most important problems facing this country that government should address?",
+    "description": "Q48pt1. Most important problems - 1st response",
+    "values": {
+      "0": "Nothing/no problems",
+      "1": "Management of the economy",
+      "2": "Wages, incomes, and salaries",
+      "3": "Unemployment",
+      "4": "Poverty/destitution",
+      "5": "Rates and taxes",
+      "6": "Loans/credit",
+      "7": "Farming/agriculture",
+      "8": "Food shortage/famine",
+      "9": "Drought",
+      "10": "Land",
+      "11": "Transportation",
+      "12": "Communications",
+      "13": "Infrastructure/roads",
+      "14": "Education",
+      "15": "Housing",
+      "16": "Electricity",
+      "17": "Water supply",
+      "18": "Orphans/street children/homeless children",
+      "19": "Services (other)",
+      "20": "Health",
+      "21": "AIDS",
+      "22": "Sickness/disease",
+      "23": "Crime and security",
+      "24": "Corruption",
+      "25": "Political violence",
+      "26": "Political instability/political divisions/ethnic tensions",
+      "27": "Discrimination/inequality",
+      "28": "Gender issues/women's rights",
+      "29": "Democracy/political rights",
+      "30": "War (international)",
+      "31": "Civil War",
+      "32": "Agricultural marketing",
+      "33": "Climate change",
+      "660": "Chômage des jeunes",
+      "700": "COVID-19",
+      "701": "Immigration",
+      "860": "Cash crisis",
+      "900": "COVID-19",
+      "1140": "CHÔMAGE DES JEUNES",
+      "1220": "COVID-19/Coronavirus",
+      "1500": "Marginalization",
+      "1580": "COVID-19",
+      "1620": "Grant for elderly",
+      "9995": "Other",
+      "9998": "Refused",
+      "9999": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q48pt1OTHER": {
+    "question": "In your opinion, what are the most important problems facing this country that government should address?",
+    "description": "Q48ptlother. MIP - 1st response (verbatim)",
+    "values": "String variable"
+  },
+  "Q48pt2": {
+    "question": "In your opinion, what are the most important problems facing this country that government should address?",
+    "description": "Q48pt2. Most important problems - 2nd response",
+    "values": {
+      "1": "Management of the economy",
+      "2": "Wages, income and salaries",
+      "3": "Unemployment",
+      "4": "Poverty/destitution",
+      "5": "Rates and taxes",
+      "6": "Loans/credit",
+      "7": "Farming/agriculture",
+      "8": "Food shortage/famine",
+      "9": "Drought",
+      "10": "Land",
+      "11": "Transportation",
+      "12": "Communications",
+      "13": "Infrastructure/roads",
+      "14": "Education",
+      "15": "Housing",
+      "16": "Electricity",
+      "17": "Water supply",
+      "18": "Orphans/street children/homeless children",
+      "19": "Services (other)",
+      "20": "Health",
+      "21": "AIDS",
+      "22": "Sickness/disease",
+      "23": "Crime and security",
+      "24": "Corruption",
+      "25": "Political violence",
+      "26": "Political instability/political divisions/ethnic tensions",
+      "27": "Discrimination/inequality",
+      "28": "Gender issues/women's rights",
+      "29": "Democracy/political rights",
+      "30": "War (international)",
+      "31": "Civil War",
+      "32": "Agricultural marketing",
+      "33": "Climate change",
+      "660": "Chômage des jeunes",
+      "700": "COVID-19",
+      "701": "Immigration",
+      "860": "Cash crisis",
+      "900": "COVID-19",
+      "1140": "CHÔMAGE DES JEUNES",
+      "1220": "COVID-19/Coronavirus",
+      "1500": "Marginalization",
+      "1580": "COVID-19",
+      "1620": "Grant for elderly",
+      "9995": "Other",
+      "9996": "No further reply",
+      "-1": "Missing"
+    }
+  },
+  "Q48pt2OTHER": {
+    "question": "In your opinion, what are the most important problems facing this country that government should address?",
+    "description": "Q48pt2other. MIP - 2nd response (verbatim)",
+    "values": "String variable"
+  },
+  "Q48pt3": {
+    "question": "In your opinion, what are the most important problems facing this country that government should address?",
+    "description": "Q48pt3. Most important problems - 3rd response",
+    "values": {
+      "1": "Management of the economy",
+      "2": "Wages, income and salaries",
+      "3": "Unemployment",
+      "4": "Poverty/destitution",
+      "5": "Rates and taxes",
+      "6": "Loans/credit",
+      "7": "Farming/agriculture",
+      "8": "Food shortage/famine",
+      "9": "Drought",
+      "10": "Land",
+      "11": "Transportation",
+      "12": "Communications",
+      "13": "Infrastructure/roads",
+      "14": "Education",
+      "15": "Housing",
+      "16": "Electricity",
+      "17": "Water supply",
+      "18": "Orphans/street children/homeless children",
+      "19": "Services (other)",
+      "20": "Health",
+      "21": "AIDS",
+      "22": "Sickness/disease",
+      "23": "Crime and security",
+      "24": "Corruption",
+      "25": "Political violence",
+      "26": "Political instability/political divisions/ethnic tensions",
+      "27": "Discrimination/inequality",
+      "28": "Gender issues/women's rights",
+      "29": "Democracy/political rights",
+      "30": "War (international)",
+      "31": "Civil War",
+      "32": "Agricultural marketing",
+      "33": "Climate change",
+      "660": "Chômage des jeunes",
+      "700": "COVID-19",
+      "701": "Immigration",
+      "860": "Cash crisis",
+      "900": "COVID-19",
+      "1140": "CHÔMAGE DES JEUNES",
+      "1220": "COVID-19/Coronavirus",
+      "1500": "Marginalization",
+      "1580": "COVID-19",
+      "1620": "Grant for elderly",
+      "9995": "Other",
+      "9996": "No further reply",
+      "-1": "Missing"
+    }
+  },
+  "Q48pt3OTHER": {
+    "question": "In your opinion, what are the most important problems facing this country that government should address?",
+    "description": "Q48pt3other. MIP - 3rd response (verbatim)",
+    "values": "String variable"
+  },
+  "Q49A": {
+    "question": "If the government decided to make people pay more taxes in order to support programs to help young people, would you support this decision or oppose it?",
+    "description": "Q49a. More taxes to support youth programs",
+    "values": {
+      "1": "Strongly oppose",
+      "2": "Somewhat oppose",
+      "3": "Neither support nor oppose",
+      "4": "Somewhat support",
+      "5": "Strongly support",
+      "6": "It depends (e.g., on size of the increase)",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q49B": {
+    "question": "If the government could increase its spending on programs to help young people, which of the following areas do you think should be the highest priority for additional investment?",
+    "description": "Q49b. Priorities for government investment in youth programs",
+    "values": {
+      "0": "None of the above/Some other program",
+      "1": "Job creation",
+      "2": "Education",
+      "3": "Jobs training",
+      "4": "Business loans",
+      "5": "Social services for youth, for example to improve health and prevent drug abuse",
+      "6": "Government should not increase its spending on programs to help young people",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  }
+}

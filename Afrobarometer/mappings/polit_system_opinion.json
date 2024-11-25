@@ -1,0 +1,984 @@
+{
+  "Q19A": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: The government should be able to ban any organization that goes against its policies. Statement 2: We should be able to join any organization, whether or not the government approves of it.",
+    "description": "Q19a. Government bans organizations vs. join any",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q19B": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: The media should have the right to publish any views and ideas without government control. Statement 2: The government should have the right to prevent the media from publishing things that it disapproves of.",
+    "description": "Q19b. Media free to publish vs. government control",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q20A": {
+    "question": "There are many ways to govern a country. Would you disapprove or approve of the following alternatives: Only one political party is allowed to stand for election and hold office?",
+    "description": "Q20a. Reject one-party rule",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Neither approve nor disapprove",
+      "4": "Approve",
+      "5": "Strongly approve",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q20B": {
+    "question": "There are many ways to govern a country. Would you disapprove or approve of the following alternatives: The army comes in to govern the country?",
+    "description": "Q20b. Reject military rule",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Neither approve nor disapprove",
+      "4": "Approve",
+      "5": "Strongly approve",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q20C": {
+    "question": "There are many ways to govern a country. Would you disapprove or approve of the following alternatives: Elections and Parliament are abolished so that the president can decide everything?",
+    "description": "Q20c. Reject one-man rule.",
+    "values": {
+      "1": "Strongly disapprove",
+      "2": "Disapprove",
+      "3": "Neither approve nor disapprove",
+      "4": "Approve",
+      "5": "Strongly approve",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q21": {
+    "question": "Which of these three statements is closest to your own opinion? Statement 1: Democracy is preferable to any other kind of government. Statement 2: In some circumstances, a non-democratic government can be preferable. Statement 3: For someone like me, it doesn't matter what kind of government we have.",
+    "description": "Q21. Support for democracy",
+    "values": {
+      "1": "Statement 3: Doesn't matter",
+      "2": "Statement 2: Sometimes non-democratic preferable",
+      "3": "Statement 1: Democracy preferable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q22": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: It is more important to have a government that can get things done, even if we have no influence over what it does. Statement 2: It is more important for citizens to be able to hold government accountable, even if that means it makes decisions more slowly.",
+    "description": "Q22. Govt gets things done vs. Govt accountable to citizens",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q23": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: In order for our country to do well, we should listen more to the wisdom of our elders. Statement 2: In order for our country to do well, we should listen more to fresh ideas from young people.",
+    "description": "Q23 Listen to wisdom of elders vs. fresh ideas from young people",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q24": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: We should choose our leaders in this country through regular, open and honest elections. Statement 2: Since elections sometimes produce bad results, we should adopt other methods for choosing this country's leaders.",
+    "description": "Q24. Choose leaders through elections vs. other methods",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q25": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: Political parties create division and confusion; it is therefore unnecessary to have many political parties in [Ghana]. Statement 2: Many political parties are needed to make sure that [Ghanaians] have real choices in who governs them.",
+    "description": "Q25. Political parties divisive vs. many parties needed",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q26": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2 Statement 1: Our elected officials should listen to constituents' views and do what they demand. Statement 2: Our elected leaders should follow their own ideas in deciding what is best for the country.",
+    "description": "Q26. Elected officials accountable vs. elected leaders follow own ideas.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q27": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2 Statement 1: Our elected leaders need to focus on empowering our most capable citizens. Statement 2: Our elected leaders should focus on helping people who have been left behind by economic and social change.",
+    "description": "Q27. Elected leaders empower most capable citizens vs. help people left behind by economic and social change",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q28": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2 Statement 1: Experts with specialized education or skills are needed to help make the most important decisions for our country. Statement 2: The people and their elected representatives know what is best; they do not need the advice of experts to run the country.",
+    "description": "Q28. Experts needed for most important decisions vs no need for experts",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q29": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2 Statement 1: Parliament should ensure that the President explains to it on a regular basis how his government spends taxpayers' money. Statement 2: The President should be able to devote his full attention to developing the country rather than wasting time justifying his actions.",
+    "description": "Q29. President monitored by parliament vs. free to act on own",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q30": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: Since the President was elected to lead the country, he should not be bound by laws or court decisions that he thinks are wrong. Statement 2: The President must always obey the laws and the courts, even if he thinks they are wrong.",
+    "description": "Q30. President free to act vs. obey the laws and courts",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q31": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: Whichever party or group wins elections should be able to pursue the policies they prefer, without needing to compromise with others. Statement 2: In a democracy, it is important to make compromises between the preferences and needs of different groups.",
+    "description": "Q31. Election winner pursue policies they prefer vs. compromise with other groups.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q32": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: A government that enjoys the support of the people should be free to do whatever the people want, even if it is outside the law. Statement 2: The actions of any government, no matter how popular it is, must always follow the law.",
+    "description": "Q32. Elected government free to do whatever the people want vs. bound by law.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q33": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: The news media should constantly investigate and report on government mistakes and corruption. Statement 2: Too much reporting on negative events, like government mistakes and corruption, only harms the country.",
+    "description": "Q33. Media checks government vs. avoid negative reporting",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q34": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2 Statement 1: The Constitution should limit the president to serving a maximum of two terms in office. Statement 2: There should be no constitutional limit on how long the president can serve.",
+    "description": "Q34. Presidential two term limit vs. no term limits",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q35A": {
+    "question": "Should there be a minimum age for candidates for [president]?",
+    "description": "Q35a. Minimum age for candidate for president needed",
+    "values": {
+      "0": "No, no minimum",
+      "1": "Yes, should be a minimum",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q35B": {
+    "question": "If yes, what should the minimum age be?",
+    "description": "Q35b. Minimum age for candidates for president.",
+    "values": {
+      "18-100": "18-100",
+      "997": "Not applicable",
+      "998": "Refused",
+      "999": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q35C": {
+    "question": "Should there be a maximum age for candidates for [president]?",
+    "description": "Q35c. Maximum age for candidates for president needed",
+    "values": {
+      "0": "No, no maximum",
+      "1": "Yes, should be a maximum",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q35d": {
+    "question": "If yes, what should the maximum age be?",
+    "description": "Q35d. Maximum age for candidates for president",
+    "values": {
+      "18-100": "18-100",
+      "997": "Not applicable",
+      "998": "Refused",
+      "999": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q36": {
+    "question": "In your opinion how much of a democracy is [Ghana] today?",
+    "description": "Q36. Extent of democracy",
+    "values": {
+      "1": "Not a democracy",
+      "2": "A democracy, with major problems",
+      "3": "A democracy, but with minor problems",
+      "4": "A full democracy",
+      "8": "Do not understand question/do not understand what 'democracy' is",
+      "9": "Don't know",
+      "98": "Refused",
+      "-1": "Missing"
+    }
+  },
+  "Q37": {
+    "question": "Overall, how satisfied are you with the way democracy works in [Ghana]? Are you:",
+    "description": "Q37. Satisfaction with democracy",
+    "values": {
+      "0": "The country is not a democracy",
+      "1": "Not at all satisfied",
+      "2": "Not very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Very satisfied",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q38A": {
+    "question": "How much of the time do you think the following try their best to listen to what people like you have to say: Members of Parliament?",
+    "description": "Q38a. MPs listen",
+    "values": {
+      "0": "Never",
+      "1": "Only sometimes",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q38B": {
+    "question": "How much of the time do you think the following try their best to listen to what people like you have to say: Local government councilors?",
+    "description": "Q38b. Local government councilors listen",
+    "values": {
+      "0": "Never",
+      "1": "Only sometimes",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q38C": {
+    "question": "How much of the time do you think the following try their best to listen to what people like you have to say: Traditional leaders?",
+    "description": "Q38c. Traditional leaders listen",
+    "values": {
+      "0": "Never",
+      "1": "Only sometimes",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in the country",
+      "-1": "Missing"
+    }
+  },
+  "Q39A": {
+    "question": "For each of the following statements, please tell me whether you disagree or agree: The tax authorities always have the right to make people pay taxes.",
+    "description": "Q39a. People must pay taxes",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q39B": {
+    "question": "For each of the following statements, please tell me whether you disagree or agree: Information held by public authorities is only for use by government officials; it should not have to be shared with the public.",
+    "description": "Q39b. Government information for official use only",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40A": {
+    "question": "In your opinion, how often, in this country: Does competition between political parties lead to violent conflict?",
+    "description": "Q40a. How often party competition leads to conflict",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40B": {
+    "question": "In your opinion, how often, in this country: Does the President ignore the courts and laws of this country?",
+    "description": "Q40b. How often president ignores laws",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40C": {
+    "question": "In your opinion, how often, in this country: Does the President ignore Parliament and just do what he wants?",
+    "description": "Q40c. How often president ignores parliament",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40D": {
+    "question": "In your opinion, how often, in this country: Do people have to be careful of what they say about politics?",
+    "description": "Q40d. How often careful what you say",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40E": {
+    "question": "In your opinion, how often, in this country: Are people treated unequally under the law?",
+    "description": "Q40e. How often people treated unequally",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40F": {
+    "question": "In your opinion, how often, in this country: Do officials who commit crimes go unpunished?",
+    "description": "Q40f. How often officials unpunished",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q40G": {
+    "question": "In your opinion, how often, in this country: Do ordinary people who break the law go unpunished?",
+    "description": "Q40g. How often ordinary people unpunished",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q41A": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: The President?",
+    "description": "Q41a. Trust president",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41B": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: Parliament?",
+    "description": "Q41b. Trust parliament/national assembly",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41C": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: [The Electoral Commission of Ghana]?",
+    "description": "Q41c. Trust national electoral commission",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41D": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: Your [county assembly]?",
+    "description": "Q41d. Trust your elected local government council",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41E": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: The Ruling Party?",
+    "description": "Q41e. Trust the ruling party",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41F": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: Opposition Political Parties?",
+    "description": "Q41f. Trust opposition political parties",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41G": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: The Police?",
+    "description": "Q41g. Trust police",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41H": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: The Army?",
+    "description": "Q41h. Trust army",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41I": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: Courts of law?",
+    "description": "Q41i. Trust courts of law",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41J": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: The tax/revenue office?",
+    "description": "Q41j. The tax/revenue office",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q41K": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: Traditional leaders?",
+    "description": "Q41k. Trust traditional leaders",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "94": "Not asked in the country",
+      "-1": "Missing"
+    }
+  },
+  "Q41L": {
+    "question": "How much do you trust each of the following, or haven't you heard enough about them to say: Religious leaders?",
+    "description": "Q41l. Trust religious leaders",
+    "values": {
+      "0": "Not at all",
+      "1": "Just a little",
+      "2": "Somewhat",
+      "3": "A lot",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42A": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: The President and Officials in his Office?",
+    "description": "Q42a. Corruption: office of the Presidency",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42B": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Members of Parliament?",
+    "description": "Q42b. Corruption: Members of Parliament",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42C": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Civil servants?",
+    "description": "Q42c. Corruption: Civil servants",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42D": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Members of your [local government council]?",
+    "description": "Q42d. Corruption: local government councilors",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42E": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Police?",
+    "description": "Q42e. Corruption: police",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42F": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Judges and Magistrates?",
+    "description": "Q42f. Corruption: judges and magistrates",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42G": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Tax officials?",
+    "description": "Q42g. Corruption: tax officials",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q42H": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: traditional leaders?",
+    "description": "Q42h. Corruption: traditional leaders",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "94": "Not asked in the country",
+      "-1": "Missing"
+    }
+  },
+  "Q42I": {
+    "question": "How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: Religious Leaders?",
+    "description": "Q42i. Corruption: religious leaders",
+    "values": {
+      "0": "None",
+      "1": "Some of them",
+      "2": "Most of them",
+      "3": "All of them",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard",
+      "-1": "Missing"
+    }
+  },
+  "Q43A": {
+    "question": "In your opinion, over the past year, has the level of corruption in this country increased, decreased, or stayed the same?",
+    "description": "Q43a. Level of corruption",
+    "values": {
+      "1": "Increased a lot",
+      "2": "Increased somewhat",
+      "3": "Stayed the same",
+      "4": "Decreased somewhat",
+      "5": "Decreased a lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q43B": {
+    "question": "In this country, can ordinary people report incidents of corruption without fear, or do they risk retaliation or other negative consequences if they speak out?",
+    "description": "Q43b. Ordinary people can report corruption without fear",
+    "values": {
+      "0": "Can report without fear",
+      "1": "Risk retaliation or other negative consequences",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q52A": {
+    "question": "Who should be responsible for: Making sure that, once elected, Members of Parliament do their jobs?",
+    "description": "Q52a. Who responsible: MPs do jobs",
+    "values": {
+      "0": "The President/Executive",
+      "1": "The Parliament/County Assembly",
+      "2": "Their political party",
+      "3": "The voters",
+      "4": "No one",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q52B": {
+    "question": "Who should be responsible for: Making sure that, once elected, the president does his job?",
+    "description": "Q52b. Who responsible: president does job?",
+    "values": {
+      "0": "The President/Executive",
+      "1": "The Parliament/County Assembly",
+      "2": "Their political party",
+      "3": "The voters",
+      "4": "No one",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q53A": {
+    "question": "Think about how elections work in practice in this country. How well do elections: Ensure that representatives to [Parliament] reflect the views of voters?",
+    "description": "Q53a. Elections ensure voters' views are reflected",
+    "values": {
+      "0": "Not at all well",
+      "1": "Not very well",
+      "2": "Well",
+      "3": "Very well",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q53B": {
+    "question": "Think about how elections work in practice in this country. How well do elections: Enable voters to remove from office leaders who do not do what the people want?",
+    "description": "Q53b. Elections enable voters to remove leaders from office.",
+    "values": {
+      "0": "Not at all well",
+      "1": "Not very well",
+      "2": "Well",
+      "3": "Very well",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q53C": {
+    "question": "How often do you think that communities that do not vote for the ruling party suffer negative consequences, such as lack of government support for local services or development projects?",
+    "description": "Q53c. Communities that do not vote for the ruling party suffer negative consequences",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q87A": {
+    "question": "Now let's talk about traditional leaders and their role in politics and government in this country. How much influence do traditional leaders currently have in each of the following areas: Governing your local community?",
+    "description": "Q87a. Influence of traditional leaders: governing your local community governing your local community?",
+    "values": {
+      "1": "None",
+      "2": "A small amount",
+      "3": "Some",
+      "4": "A lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q87B": {
+    "question": "How much influence do traditional leaders currently have in each of the following areas: Allocating land?",
+    "description": "Q87b. Influence of traditional leaders: allocating land.",
+    "values": {
+      "1": "None",
+      "2": "A small amount",
+      "3": "Some",
+      "4": "A lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q87C": {
+    "question": "How much influence do traditional leaders currently have in each of the following areas: Influencing how people in their communities vote?",
+    "description": "Q87c. Influence of traditional leaders: influencing how people in their communities vote",
+    "values": {
+      "1": "None",
+      "2": "A small amount",
+      "3": "Some",
+      "4": "A lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q87D": {
+    "question": "How much influence do traditional leaders currently have in each of the following areas: Solving local disputes?",
+    "description": "Q87d. Influence of traditional leaders: solving local disputes.",
+    "values": {
+      "1": "None",
+      "2": "A small amount",
+      "3": "Some",
+      "4": "A lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q87E": {
+    "question": "Do you think that the amount of influence traditional leaders have in governing your local community should increase, stay the same, or decrease?",
+    "description": "Q87e. Traditional leaders: amount of influence on governing local community.",
+    "values": {
+      "1": "Decrease a lot",
+      "2": "Decrease somewhat",
+      "3": "Stay the same",
+      "4": "Increase somewhat",
+      "5": "Increase a lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q88": {
+    "question": "Which of these statements is closest to your own opinion?\nStatement 1: Traditional leaders mostly look out for what is best for the people in their communities.\nStatement 2: Traditional leaders mostly serve the interests of politicians and government officials.\nStatement 3: Traditional leaders mostly look out for their own personal interests.",
+    "description": "Q88. Whom do traditional leaders serve",
+    "values": {
+      "0": "Do not agree with any of these statements",
+      "1": "Statement 3",
+      "2": "Statement 2",
+      "3": "Statement 1",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q89A": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2.\nStatement 1: Traditional leaders have a better grasp of political issues than ordinary people; they should give their people advice about how to vote.\nStatement 2: Traditional leaders should stay out of politics and leave people to make their own decisions about how to vote.",
+    "description": "Q89a. Traditional leaders advise on vote vs stay out of politics.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q89B": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2.\nStatement 1: Traditional leaders are mostly in competition with elected leaders for resources, power and influence.\nStatement 2: Traditional leaders mostly work in cooperation with elected leaders to get things done.",
+    "description": "Q89b. Traditional leaders in competition with elected leaders vs in cooperation.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q90": {
+    "question": "Some people think that because traditional leaders are not elected, they are bad for democracy, but other people think that traditional leaders can work together with elected leaders to make democracy work better. What about you? Do you think that traditional leaders strengthen democracy, weaken democracy, or don't make a difference?",
+    "description": "Q90. Traditional leaders bad for democracy",
+    "values": {
+      "1": "Weaken democracy",
+      "2": "Don't make a difference",
+      "3": "Strengthen democracy",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  }
+}

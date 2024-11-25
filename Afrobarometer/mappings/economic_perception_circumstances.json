@@ -1,0 +1,548 @@
+{
+  "Q3": {
+    "question": "Let's start with your general view about the current direction of our country. Some people might think the country is going in the wrong direction. Others may feel it is going in the right direction. So let me ask YOU about the overall direction of the country: Would you say that the country is going in the wrong direction or going in the right direction?",
+    "description": "Q3. Overall direction of the country",
+    "values": {
+      "1": "Going in the wrong direction",
+      "2": "Going in the right direction",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q4A": {
+    "question": "In general, how would you describe: The present economic condition of this country?",
+    "description": "Q4a. Country's present economic condition",
+    "values": {
+      "1": "Very bad",
+      "2": "Fairly bad",
+      "3": "Neither good nor bad",
+      "4": "Fairly good",
+      "5": "Very good",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q4B": {
+    "question": "In general, how would you describe: Your own present living conditions?",
+    "description": "Q4b. Your present living conditions",
+    "values": {
+      "1": "Very bad",
+      "2": "Fairly bad",
+      "3": "Neither good nor bad",
+      "4": "Fairly good",
+      "5": "Very good",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q5": {
+    "question": "How often, if ever, are people like you treated unfairly by the government based on your economic status, that is, how rich or poor you are?",
+    "description": "Q5. Treated unfairly by government based on economic status.",
+    "values": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Often",
+      "3": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q6A": {
+    "question": "Looking back, how do you rate economic conditions in this country compared to twelve months ago?",
+    "description": "Q6a. Country's economic condition compared to 12 months ago",
+    "values": {
+      "1": "Much worse",
+      "2": "Worse",
+      "3": "Same",
+      "4": "Better",
+      "5": "Much better",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q6B": {
+    "question": "Looking ahead, do you expect economic conditions in this country to be better or worse in twelve months' time?",
+    "description": "Q6b. Country's economic condition in 12 months' time",
+    "values": {
+      "1": "Much worse",
+      "2": "Worse",
+      "3": "Same",
+      "4": "Better",
+      "5": "Much better",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q7A": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family gone without: Enough food to eat?",
+    "description": "Q7a. How often gone without food",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q7B": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family gone without: Enough clean water for home use?",
+    "description": "Q7b. How often gone without water",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q7C": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family gone without: Medicines or medical treatment?",
+    "description": "Q7c. How often gone without medical care",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q7D": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family gone without: Enough fuel to cook your food?",
+    "description": "Q7d. How often gone without cooking fuel",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q7E": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family gone without: A cash income?",
+    "description": "Q7e. How often gone without a cash income",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q8A": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family: Felt unsafe walking in your neighbourhood?",
+    "description": "Q8a. How often felt unsafe walking in neighbourhood",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q8B": {
+    "question": "Over the past year, how often, if ever, have you or anyone in your family: Feared crime in your own home?",
+    "description": "Q8b. How often feared crime in home",
+    "values": {
+      "0": "Never",
+      "1": "Just once or twice",
+      "2": "Several times",
+      "3": "Many times",
+      "4": "Always",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q92A": {
+    "question": "Which of these things do you personally own? [If no, ask:] Does anyone else in your household own one: Radio?",
+    "description": "Q92a. Own radio",
+    "values": {
+      "0": "No one in household owns",
+      "1": "Yes, someone else in household owns",
+      "2": "Yes, personally owns",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92B": {
+    "question": "Which of these things do you personally own? [If no, ask:] Does anyone else in your household own one: Television?",
+    "description": "Q92b. Own television",
+    "values": {
+      "0": "No one in household owns",
+      "1": "Yes, someone else in household owns",
+      "2": "Yes, personally owns",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92C": {
+    "question": "Which of these things do you personally own? [If no, ask:] Does anyone else in your household own one: Motor vehicle or motorcycle?",
+    "description": "Q92c. Own motor vehicle, car, or motorcycle",
+    "values": {
+      "0": "No one in household owns",
+      "1": "Yes, someone else in household owns",
+      "2": "Yes, personally owns",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92D": {
+    "question": "Which of these things do you personally own? [If no, ask:] Does anyone else in your household own one: Computer?",
+    "description": "Q92d. Own computer",
+    "values": {
+      "0": "No one in household owns",
+      "1": "Yes, someone else in household owns",
+      "2": "Yes, personally owns",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92E": {
+    "question": "Which of these things do you personally own? [If no, ask:] Does anyone else in your household own one: Bank account?",
+    "description": "Q92e. Own bank account",
+    "values": {
+      "0": "No one in household owns",
+      "1": "Yes, someone else in household owns",
+      "2": "Yes, personally owns",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92F": {
+    "question": "Which of these things do you personally own? [If no, ask:] Does anyone else in your household own one: Mobile phone?",
+    "description": "Q92f. Own mobile phone",
+    "values": {
+      "0": "No one in household owns",
+      "1": "Yes, someone else in household owns",
+      "2": "Yes, personally owns",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92G": {
+    "question": "Does your phone have access to the internet?",
+    "description": "Q92g. Mobile phone access to internet",
+    "values": {
+      "0": "No, does not have internet access",
+      "1": "Yes, has internet access",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92H": {
+    "question": "How often do you use: A mobile phone?",
+    "description": "Q92h. How often use a mobile phone",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q92I": {
+    "question": "How often do you use: The Internet?",
+    "description": "Q92i. How often use the internet",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q93A": {
+    "question": "What is your main source of water for household use?",
+    "description": "Q93a. Source of water for household use",
+    "values": {
+      "1": "Piped water into dwelling",
+      "2": "Piped water into yard, plot or compound",
+      "3": "Public tap or standpipe",
+      "4": "Tubewell or borehole",
+      "5": "Protected dug well",
+      "6": "Unprotected dug well",
+      "7": "Protected spring",
+      "8": "Unprotected spring",
+      "9": "Rainwater collection",
+      "10": "Bottled water",
+      "11": "Purchased from a cart with a small tank or drum",
+      "12": "Purchased from a tanker truck",
+      "13": "Surface water, like a river, dam, lake, pone, stream, canal or irrigation channel",
+      "95": "Other",
+      "98": "Refused",
+      "99": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q93B": {
+    "question": "Do you have a toilet, water closet or latrine available for your use? [If yes] Is it inside your house, inside your compound, or outside your compound, or is there none available?",
+    "description": "Q93b. Location of toilet or latrine",
+    "values": {
+      "0": "No, none available",
+      "1": "Yes, inside the house",
+      "2": "Yes, inside the compound",
+      "3": "Yes, outside the compound",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q94A": {
+    "question": "Do you have an electric connection to your home from the national power grid?",
+    "description": "Q94a. Electric connection from national power grid.",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q94B": {
+    "question": "How often is electricity actually available from this connection?",
+    "description": "Q94b. Electricity available from mains.",
+    "values": {
+      "1": "Never",
+      "2": "Occasionally",
+      "3": "About half of the time",
+      "4": "Most of the time",
+      "5": "All of the time",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q94C": {
+    "question": "Does your house use electric power from any source other than [the national power grid]?",
+    "description": "Q94c. Electricity available other than national power grid.",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q94D": {
+    "question": "What is the source of the electricity for this connection?",
+    "description": "Q94d. Source of electricity other than the national power grid.",
+    "values": {
+      "1": "Batteries or power bank",
+      "2": "Generator",
+      "3": "Solar panels",
+      "4": "Wind power",
+      "5": "Hydro power",
+      "6": "Biogas",
+      "95": "Other",
+      "96": "Multiple sources",
+      "97": "Not applicable",
+      "98": "Refused",
+      "99": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q94E": {
+    "question": "Is the electricity source owned by your household, or does it come from outside of your household?",
+    "description": "Q94e. Own electricity source",
+    "values": {
+      "1": "Owned by household",
+      "2": "Owned outside household",
+      "3": "Get power from sources both within and outside of household",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q95A": {
+    "question": "Do you have a job that pays a cash income? [If yes, ask] Is it full-time or part-time? [If no, ask:] Are you presently looking for a job?",
+    "description": "Q95a. Employment status",
+    "values": {
+      "0": "No, not looking",
+      "1": "No, looking",
+      "2": "Yes, part time",
+      "3": "Yes, full time",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q95B": {
+    "question": "If you have paid employment, that is, regular employment for which you receive something like an hourly wage or a regular salary, are you required to pay an income tax, that is, a tax deducted from your wages by your employer?",
+    "description": "Q95b. Required to pay an income tax",
+    "values": {
+      "0": "No, am not required to pay",
+      "1": "Yes, am required to pay",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q95C": {
+    "question": "What is your main occupation? [If unemployed, retired, or disabled, ask:] What was your last main occupation?",
+    "description": "Q95c. Occupation of respondent",
+    "values": {
+      "0": "Never had a job",
+      "1": "Student",
+      "2": "Housewife/homemaker",
+      "3": "Agriculture/farming/fishing/forestry",
+      "4": "Trader/hawker/vendor",
+      "5": "Retail/shop",
+      "6": "Unskilled manual worker",
+      "7": "Artisan or skilled manual worker",
+      "8": "Clerical or secretarial",
+      "9": "Supervisor/foreman/senior manager",
+      "10": "Security services",
+      "11": "Mid-level professional",
+      "12": "Upper-level professional",
+      "220": "Retired",
+      "700": "Self-employed/Business Owner",
+      "1500": "Retired",
+      "1580": "Retired",
+      "1700": "RETRAITÉ",
+      "95": "Other",
+      "98": "Refused",
+      "99": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q95COTHER": {
+    "question": "What is your main occupation? [If unemployed, retired, or disabled, ask:] What was your last main occupation?",
+    "description": "Q95cother. Occupation of respondent (verbatim)",
+    "values": {}
+  },
+  "Q95D": {
+    "question": "[If respondent has an occupation, i.e. responses on Q95B other than 0=Never had a job, 1=Student, 2= Housewife / Homemaker, ask:] Do you work for yourself, for someone else in the private sector or the non-governmental sector, or for government? [If respondent indicated in previous question that they were unemployed, retired or disabled, ask:] In your last job, did you work for yourself, for someone else in the private sector or the non-governmental sector, or for government?",
+    "description": "Q95d. Employer of respondent",
+    "values": {
+      "1": "Works for self",
+      "2": "Private sector",
+      "3": "Non-governmental organizations or civil society sector",
+      "4": "Government",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q96A": {
+    "question": "What is the main way that decisions are made about how to use any money that you have or earn, for example from a job, a business, selling things or other activities?",
+    "description": "Q96a. Who decides how money is used?",
+    "values": {
+      "1": "You make the decisions yourself",
+      "2": "Your spouse makes the decisions",
+      "3": "You make the decisions jointly with your spouse",
+      "4": "You make the decisions jointly with other family members",
+      "5": "Other family members make the decisions without you",
+      "6": "None of the above/Some other response",
+      "7": "Not applicable, no earnings",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q96B": {
+    "question": "Who is the head of this household, that is, the person who has primary responsibility for making decisions on behalf of the household?",
+    "description": "Head of household",
+    "values": {
+      "1": "You (respondent)",
+      "2": "Respondent's spouse",
+      "3": "Respondent's father",
+      "4": "Respondent's mother",
+      "5": "Respondent's son",
+      "6": "Respondent's daughter",
+      "7": "Respondent's grandfather",
+      "8": "Respondent's grandmother",
+      "9": "Another male relative",
+      "10": "Another female relative",
+      "11": "Someone else",
+      "12": "More than one person",
+      "98": "Refused",
+      "99": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q96C": {
+    "question": "If respondent is not the head of household, i.e. if the response to 96B was NOT 1=You [respondent] or 99=Don't know, ask:] What is the main occupation of the head of the household? [If unemployed, retired or disabled, ask:] What was his/her last main occupation?",
+    "description": "Q96c. Occupation of head of household",
+    "values": {
+      "0": "Never had a job",
+      "1": "Student",
+      "2": "Housewife/homemaker",
+      "3": "Agriculture/farming/fishing/forestry",
+      "4": "Trader/hawker/vendor",
+      "5": "Retail/shop",
+      "6": "Unskilled manual worker",
+      "7": "Artisan or skilled manual worker",
+      "8": "Clerical or secretarial",
+      "9": "Supervisor/foreman/senior manager",
+      "10": "Security services",
+      "11": "Mid-level professional",
+      "12": "Upper-level professional",
+      "95": "Other",
+      "97": "Not applicable (respondent is head of household)",
+      "98": "Refused",
+      "99": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q97": {
+    "question": "What is your highest level of education?",
+    "description": "Q97. Education of respondent",
+    "values": {
+      "0": "No formal schooling",
+      "1": "Informal schooling only (including Koranic schooling)",
+      "2": "Some primary schooling",
+      "3": "Primary school completed",
+      "4": "Intermediate school or some secondary school/high school",
+      "5": "Secondary school/high school completed",
+      "6": "Post-secondary qualifications, other than university",
+      "7": "Some university",
+      "8": "University completed",
+      "9": "Post-graduate",
+      "98": "Refused",
+      "99": "Don't know",
+      "-1": "Missing"
+    }
+  }
+}

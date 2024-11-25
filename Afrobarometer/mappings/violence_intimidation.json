@@ -1,0 +1,100 @@
+{
+  "Q17C": {
+    "question": "How likely do you think it is that powerful people can find out how you voted, even though there is supposed to be a secret ballot in this country?",
+    "description": "Q17c. Last national election: powerful people find out vote",
+    "values": {
+      "0": "Not at all likely",
+      "1": "Not very likely",
+      "2": "Somewhat likely",
+      "3": "Very likely",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q17D": {
+    "question": "During the last national election campaign in [20XX], how much did you personally fear becoming a victim of political intimidation or violence?",
+    "description": "Q17d. Last national election: fear political intimidation or violence",
+    "values": {
+      "0": "A lot",
+      "1": "Somewhat",
+      "2": "A little bit",
+      "3": "Not at all",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q18A": {
+    "question": "During the last national election in [20xx], did you witness: Police or soldiers, rather than election officials, assisting people to cast their ballot?",
+    "description": "Q18a. Last national election: police or soldiers assist people to cast ballot",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q18B": {
+    "question": "During the last national election in [20xx], did you witness: Anyone from the security forces or a political party trying to intimidate voters?",
+    "description": "Q18b. Last national election: security forces or political party trying to intimidate voters",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q18C": {
+    "question": "With regard to the last national election in [20XX], to what extent do you think the results announced by the [Independent Electoral Commission] accurately reflected the actual results as counted?",
+    "description": "Q18c. Last national election: announced results reflect counted results",
+    "values": {
+      "1": "Not accurate at all",
+      "2": "Not very accurate, with major discrepancies",
+      "3": "Mostly accurate, but with some minor discrepancies",
+      "4": "Completely accurate",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q54A": {
+    "question": "In any society, people will sometimes disagree with one another. These disagreements occasionally escalate into physical violence. Please tell me whether, in the past two years, you have ever personally feared any of the following types of violence? [If yes] Have you actually personally experienced this type of violence in the past two years? Violence among people in your neighbourhood or village?",
+    "description": "Q54a. Feared violence in neighbourhood",
+    "values": {
+      "0": "No, never",
+      "1": "Yes, feared but didn't experience",
+      "2": "Yes, feared and experienced",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q54B": {
+    "question": "In any society, people will sometimes disagree with one another. These disagreements occasionally escalate into physical violence. Please tell me whether, in the past two years, you have ever personally feared any of the following types of violence? [If yes] Have you actually personally experienced this type of violence in the past two years? Violence at a political rally or public protest?",
+    "description": "Q54b. Feared violence during political event or public protest",
+    "values": {
+      "0": "No, never",
+      "1": "Yes, feared but didn't experience",
+      "2": "Yes, feared and experienced",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q54C": {
+    "question": "In any society, people will sometimes disagree with one another. These disagreements occasionally escalate into physical violence. Please tell me whether, in the past two years, you have ever personally feared any of the following types of violence? [If yes] Have you actually personally experienced this type of violence in the past two years? An armed attack by political or religious extremists?",
+    "description": "Q54c. Feared violence by extremists",
+    "values": {
+      "0": "No, never",
+      "1": "Yes, feared but didn't experience",
+      "2": "Yes, feared and experienced",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in the country",
+      "-1": "Missing"
+    }
+  }
+}

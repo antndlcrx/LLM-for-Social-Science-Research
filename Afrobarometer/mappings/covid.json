@@ -1,0 +1,366 @@
+{
+  "COV-1": {
+    "question": "Now I would like to ask you some questions about the COVID-19 pandemic that has been affecting our country and the world since early 2020. How well informed would you say you are about the coronavirus, or the COVID-19 pandemic, and efforts to combat it? Would you consider yourself:",
+    "description": "COV-1. Informed about COVID-19",
+    "values": {
+      "0": "Haven't heard of coronavirus/COVID-19",
+      "1": "Not at all informed",
+      "2": "Not very well informed",
+      "3": "Somewhat well informed",
+      "4": "Very well informed",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "-1": "Missing"
+    }
+  },
+  "COV-2": {
+    "question": "Please tell me if you personally or any other member of your household have been affected in any of the following ways by the COVID-19 pandemic: Became ill with COVID-19?",
+    "description": "COV-2. Became ill with COVID-19",
+    "values": {
+      "1": "Yes",
+      "2": "No",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable (COV1=0, 8 or 9)",
+      "-1": "Missing"
+    }
+  },
+"COV-3": {
+    "question": "Please tell me if you personally or any other member of your household have been affected in any of the following ways by the COVID-19 pandemic: Temporarily or permanently lost a job, business or primary source of income?",
+    "description": "COV-3. Lost income because of COVID-19",
+    "values": {
+      "1": "Yes",
+      "2": "No",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "-1": "Missing"
+    }
+  },
+  "COV-4": {
+    "question": "Has your own community been under a mandatory lockdown or stay-at-home order or curfew at any time since the beginning of the COVID-19 pandemic?",
+    "description": "COV-4. Community experience COVID-19 lockdown/curfew",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "997": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-5": {
+    "question": "How easy or difficult was it for you and your household to comply with the lockdown or curfew restrictions imposed by the government?",
+    "description": "COV-5. Ease of compliance with COVID-19 lockdown/curfew",
+    "values": {
+      "0": "I/we did not comply",
+      "1": "Very difficult",
+      "2": "Difficult",
+      "3": "Neither easy nor difficult",
+      "4": "Easy",
+      "5": "Very easy",
+      "7": "Not applicable (no lockdown)",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-6": {
+    "question": "Please tell me whether you agree or disagree with the following statement: Even if the lockdown or curfew had negative impacts on the economy and people's livelihoods, it was necessary to limit the spread of COVID-19.",
+    "description": "COV-6. Lockdown/curfew necessary to limit COVID-19 spread",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "7": "Not applicable -- no lockdown",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-7": {
+    "question": "Have schools in your own community been closed at any time since the beginning of the pandemic?",
+    "description": "COV-7. School closed due to COVID-19",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "997": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-8": {
+    "question": "Did you support or oppose the government's decision to close schools in an effort to limit the spread of COVID-19?",
+    "description": "COV-8. Support school closure due to COVID-19",
+    "values": {
+      "1": "Strongly oppose",
+      "2": "Somewhat oppose",
+      "3": "Neither support nor oppose",
+      "4": "Somewhat support",
+      "5": "Strongly support",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-9": {
+    "question": "In your opinion, was the period during which schools were closed too long or too short?",
+    "description": "COV-9. Length of COVID-19 school closure appropriate",
+    "values": {
+      "1": "Much too long",
+      "2": "Somewhat too long",
+      "3": "About right length",
+      "4": "Somewhat too short",
+      "5": "Much too short",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-10": {
+    "question": "Since the start of the Covid-19 pandemic, have you or your household received any assistance from government, like food, cash payments, relief from bill payments, or other assistance that you were not normally receiving before the pandemic?",
+    "description": "COV-10. Received COVID-19 relief assistance",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-11": {
+    "question": "Do you think that the benefits of government programs to support people during the COVID-19 pandemic, for example through food packages or cash payments, have been distributed fairly, or that the distribution was unfair, for example by favoring certain groups or regions?",
+    "description": "COV-11. COVID-19 relief assistance fairly distributed",
+    "values": {
+      "1": "Very unfairly",
+      "2": "Somewhat unfairly",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat fairly",
+      "5": "Very fairly",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-12": {
+    "question": "How well or badly would you say the current government has handled the following matters since the start of the COVID-19 pandemic, or haven't you heard enough to say: managing the response to the COVID-19 pandemic?",
+    "description": "COV-12. Handling managing COVID-19 response",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know/Haven't heard enough",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-13": {
+    "question": "How well or badly would you say the current government has handled the following matters since the start of the COVID-19 pandemic, or haven't you heard enough to say: Keeping the public informed about COVID-19?",
+    "description": "COV-13. Handling keeping public informed about COVID-19",
+    "values": {
+      "1": "Very badly",
+      "2": "Fairly badly",
+      "3": "Fairly well",
+      "4": "Very well",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-14": {
+    "question": "How much do you trust the official statistics provided by government on the number of infections and deaths due to the COVID-19 pandemic?",
+    "description": "COV-14. Trust govt COVID-19 statistics",
+    "values": {
+      "1": "Not at all",
+      "2": "Just a little",
+      "3": "Somewhat",
+      "4": "A lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-15": {
+    "question": "Considering all of the funds and resources that were available to the government for combatting and responding to the COVID-19 pandemic, how much do you think was lost or stolen due to corruption among government officials?",
+    "description": "COV-15. Level of COVID-19 corruption",
+    "values": {
+      "1": "A lot",
+      "2": "Some",
+      "3": "A little",
+      "4": "None",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-16": {
+    "question": "How much do you trust the government to ensure that any vaccine for COVID-19 that is developed or offered to Sudanese citizens is safe before it is used in this country?",
+    "description": "COV-16. Trust govt to ensure safety of COVID-19 vaccine",
+    "values": {
+      "1": "Not at all",
+      "2": "Just a little",
+      "3": "Somewhat",
+      "4": "A lot",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-17": {
+    "question": "If a vaccine for COVID-19 becomes available and the government says it is safe, how likely are you to try get vaccinated?",
+    "description": "COV-17. Likelihood of getting COVID-19 vaccination",
+    "values": {
+      "1": "Very unlikely",
+      "2": "Somewhat unlikely",
+      "3": "Somewhat likely",
+      "4": "Very likely",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-18": {
+    "question": "Some people think that prayer is an effective way to alter events in the world. Others put more faith in science to solve problems. Some people believe in both. What about you? Do you think that prayer is more effective or less effective than a vaccine would be in preventing COVID-19 infection?",
+    "description": "COV-18. Prayer more effective than COVID-19 vaccine",
+    "values": {
+      "1": "Much more effective",
+      "2": "Somewhat more effective",
+      "3": "About the same effectiveness",
+      "4": "Somewhat less effective",
+      "5": "Much less effective",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-19": {
+    "question": "Looking ahead, how serious of a problem do you think the COVID-19 pandemic will be for Sudan over the next six months?",
+    "description": "COV-19. Seriousness of COVID-19 over next 6 months",
+    "values": {
+      "1": "Not serious at all",
+      "2": "Not very serious",
+      "3": "Somewhat serious",
+      "4": "Very serious",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-20": {
+    "question": "Do you agree or disagree with the following statement: Our government needs to invest more of our health resources in special preparations to respond to health emergencies like COVID-19, even if it means fewer resources are available for other health services.",
+    "description": "COV-20. Govt needs to invest more in health emergencies",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "-1": "Missing"
+    }
+  },
+"COV-21": {
+    "question": "When the country is facing a public health emergency like the COVID-19 pandemic, do you agree or disagree that it is justified for the government to temporarily limit democratic freedoms by taking the following measures: Censoring media reporting.",
+    "description": "Censoring media during pandemic",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-22": {
+    "question": "When the country is facing a public health emergency like the COVID-19 pandemic, do you agree or disagree that it is justified for the government to temporarily limit democratic freedoms by taking the following measures: Using the police and security forces to enforce public health mandates like lockdown orders, mask requirements, or restrictions on public gatherings.",
+    "description": "Armed forces/police to enforce public health measures",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-23": {
+    "question": "When the country is facing a public health emergency like the COVID-19 pandemic, do you agree or disagree that it is justified for the government to temporarily limit democratic freedoms by taking the following measures: Postponing elections or limiting political campaigning.",
+    "description": "Postpone elections/limit campaigns",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  },
+  "COV-24": {
+    "question": "In some countries, people have been worried that governments and politicians are trying to take advantage of the COVID-19 pandemic to increase their wealth or power, or to permanently restrict freedoms or political competition. What about you? How worried are you, if at all, that the following things are taking place in Sudan: Politicians are using the pandemic as an opportunity to increase their power and authority.",
+    "description": "Politicians take advantage of COVID-19 pandemic",
+    "values": {
+      "1": "Not at all worried",
+      "2": "Not very worried",
+      "3": "Somewhat worried",
+      "4": "Very worried",
+      "8": "Refused",
+      "9": "Don't know",
+      "94": "Not asked in this country",
+      "97": "Not applicable",
+      "-1": "Missing"
+    }
+  }
+}

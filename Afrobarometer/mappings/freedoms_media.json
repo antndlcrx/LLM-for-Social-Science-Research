@@ -1,0 +1,415 @@
+{
+"Q10A": {
+    "question": "In this country, how free are you: To say what you think?",
+    "description": "Q10a. Freedom to say what you think",
+    "values": {
+      "1": "Not at all free",
+      "2": "Not very free",
+      "3": "Somewhat free",
+      "4": "Completely free",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q10B": {
+    "question": "In this country, how free are you: To join any political organization you want?",
+    "description": "Q10b. Freedom to join political organization",
+    "values": {
+      "1": "Not at all free",
+      "2": "Not very free",
+      "3": "Somewhat free",
+      "4": "Completely free",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q10C": {
+    "question": "In this country, how free are you: To choose who to vote for without feeling pressured?",
+    "description": "Q10c. Freedom to choose who to vote for without pressure",
+    "values": {
+      "1": "Not at all free",
+      "2": "Not very free",
+      "3": "Somewhat free",
+      "4": "Completely free",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q55A": {
+    "question": "Now let us talk about the media and how you get information about politics and other issues. How often do you get news from the following sources: Radio?",
+    "description": "Q55a. Radio news",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q55B": {
+    "question": "How often do you get news from the following sources: Television?",
+    "description": "Q55b. Television news",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q55C": {
+    "question": "How often do you get news from the following sources: Print newspapers?",
+    "description": "Q55c. Newspaper news",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q55D": {
+    "question": "How often do you get news from the following sources: Internet?",
+    "description": "Q55d. Internet news",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q55E": {
+    "question": "How often do you get news from the following sources: Social media such as Facebook, Twitter, WhatsApp or others?",
+    "description": "Q55e. Social media news",
+    "values": {
+      "0": "Never",
+      "1": "Less than once a month",
+      "2": "A few times a month",
+      "3": "A few times a week",
+      "4": "Every day",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q56": {
+    "question": "In your opinion, how free is the news media in this country to report and comment on the news without censorship or interference by the government?",
+    "description": "Q56. News media free of censorship by the government",
+    "values": {
+      "0": "Not at all free",
+      "1": "Not very free",
+      "2": "Somewhat free",
+      "3": "Completely free",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q57A": {
+    "question": "Please tell me how often, in this country, you think people from each of the following groups spread information that they know is false: government officials?",
+    "description": "Q57a. Spread false information: government officials",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q57B": {
+    "question": "Please tell me how often, in this country, you think people from each of the following groups spread information that they know is false: politicians and political parties?",
+    "description": "Q57b. Spread false information: politicians and political parties.",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q57C": {
+    "question": "Please tell me how often, in this country, you think people from each of the following groups spread information that they know is false: news media and journalists?",
+    "description": "Q57c. Spread false information: news media and journalists.",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q57D": {
+    "question": "Please tell me how often, in this country, you think people from each of the following groups spread information that they know is false: social media users?",
+    "description": "Q57d. Spread false information: social media users.",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q57E": {
+    "question": "Please tell me how often, in this country, you think people from each of the following groups spread information that they know is false: activists and interest groups?",
+    "description": "Q57e. Spread false information: activists and interest groups.",
+    "values": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q58A": {
+    "question": "Let's talk about whether the government should be able to limit the sharing of news, information, or opinions on radio and TV, in newspapers, or on the internet and social media. Please tell me whether you agree or disagree that the government should be able to limit or prohibit sharing of: News or information that is false.",
+    "description": "Q58a. Government prohibits: news or information that is false",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q58B": {
+    "question": "Please tell me whether you agree or disagree that the government should be able to limit or prohibit sharing of: News, information, or opinions that the government disapproves of.",
+    "description": "Q58b. Government prohibits: news, information, or opinions that the government disapproves of.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q58C": {
+    "question": "Please tell me whether you agree or disagree that the government should be able to limit or prohibit sharing of: News, information, or opinions that criticize or insult the president.",
+    "description": "Q58c. Government prohibits: news, information, or opinions that criticize or insult the president.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q58D": {
+    "question": "Please tell me whether you agree or disagree that the government should be able to limit or prohibit sharing of: Hate speech, that is, news, information, or opinions designed to attack or vilify certain groups in society.",
+    "description": "Q58d. Government prohibits: hate speech.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q59A": {
+    "question": "Have you heard about social media, for example, Facebook, Twitter, and WhatsApp?",
+    "description": "Q59a. Heard about social media",
+    "values": {
+      "0": "No",
+      "1": "Yes",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q59B": {
+    "question": "Regardless of whether you personally use social media yourself, please tell me whether you agree or disagree that social media: Makes people more informed about current events?",
+    "description": "Q59b. Social media: makes people more informed about current events",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "7": "Not applicable",
+      "8": "Refuse",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q59C": {
+    "question": "Regardless of whether you personally use social media yourself, please tell me whether you agree or disagree that social media: Makes people more likely to believe false news?",
+    "description": "Q59c. Social media: makes people more likely to believe false news.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "7": "Not applicable",
+      "8": "Refuse",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q59D": {
+    "question": "Regardless of whether you personally use social media yourself, please tell me whether you agree or disagree that social media: Helps people have more impact on political processes?",
+    "description": "Q59d. Social media: helps people have more impact on political processes.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "7": "Not applicable",
+      "8": "Refuse",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q59E": {
+    "question": "Regardless of whether you personally use social media yourself, please tell me whether you agree or disagree that social media: Makes people more intolerant of those who have different political opinions?",
+    "description": "Q59e. Social media: makes people more intolerant.",
+    "values": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Agree",
+      "5": "Strongly agree",
+      "7": "Not applicable",
+      "8": "Refuse",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q59F": {
+    "question": "Overall, do you think that the effects of social media on society are mostly positive, mostly negative, or haven't you heard enough to say?",
+    "description": "Q59f. Effects of social media on society",
+    "values": {
+      "1": "Very negative",
+      "2": "Somewhat negative",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat positive",
+      "5": "Very positive",
+      "7": "Not applicable",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q60": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2. Statement 1: Unrestricted access to the Internet and social media helps people to be more informed and active citizens, and should be protected. Statement 2: Information shared on the Internet and social media is dividing [Batswana], so access should be regulated by government.",
+    "description": "Q60. Unrestricted access to the Internet vs regulated access",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q61": {
+    "question": "Now let's talk about how our country should relate to other countries in [Southern Africa] and the world. Which of the following statements is closest to your view? Choose statement 1 or Statement 2. Statement 1: People living in [Southern] Africa should be able to move freely across international borders in order to trade or work in other countries. Statement 2: In order to protect their own citizens, governments should limit the cross-border movement of people and goods.",
+    "description": "Q61. Free movement in region vs limit cross-border movement.",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q62": {
+    "question": "In your opinion, how easy or difficult is it for people in [West] Africa to cross international borders in order to work or trade in other countries, or haven't you heard enough to say?",
+    "description": "Q62. Difficulty to move across borders",
+    "values": {
+      "1": "Very difficult",
+      "2": "Difficult",
+      "3": "Easy",
+      "4": "Very easy",
+      "7": "Never try",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+"Q73": {
+    "question": "Let's talk for a moment about the kind of society you would like to have in this country. Some people say that, in order to enjoy security from violence in our society, we must limit the amount of freedom that citizens are allowed to enjoy. Others say that political liberty is too important to sacrifice and must always be maintained, even if it threatens the security of the country. Which of the following statements is closest to your view? Choose Statement 1 or Statement 2.",
+    "description": "Free to move when public security threatened vs impose curfews",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q74": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2.",
+    "description": "Government should monitor private communication vs right to privacy",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  },
+  "Q75": {
+    "question": "Which of the following statements is closest to your view? Choose Statement 1 or Statement 2.",
+    "description": "Absolute freedom of religion vs government regulates what is said",
+    "values": {
+      "1": "Agree very strongly with Statement 1",
+      "2": "Agree with Statement 1",
+      "3": "Agree with Statement 2",
+      "4": "Agree very strongly with Statement 2",
+      "5": "Agree with neither",
+      "8": "Refused",
+      "9": "Don't know",
+      "-1": "Missing"
+    }
+  }
+}
