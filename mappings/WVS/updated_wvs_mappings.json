@@ -3420,7 +3420,7 @@
             }
         },
         "Q18": {
-            "description": "Neighbors: Drug addicts",
+            "description": "Ok if Neighbors are: Drug addicts",
             "question": "Would you prefer not to have drug addicts as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3432,7 +3432,7 @@
             }
         },
         "Q19": {
-            "description": "Neighbors: People of a different race",
+            "description": "Ok if Neighbors are: People of a different race",
             "question": "Would you prefer not to have people of a different race as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3444,7 +3444,7 @@
             }
         },
         "Q20": {
-            "description": "Neighbors: People who have AIDS",
+            "description": "Ok if Neighbors are: People who have AIDS",
             "question": "Would you prefer not to have people who have aids as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3456,7 +3456,7 @@
             }
         },
         "Q21": {
-            "description": "Neighbors: Immigrants/foreign workers",
+            "description": "Ok if Neighbors are: Immigrants/foreign workers",
             "question": "Would you prefer not to have immigrants/foreign workers as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3468,7 +3468,7 @@
             }
         },
         "Q22": {
-            "description": "Neighbors: Homosexuals",
+            "description": "Ok if Neighbors are: Homosexuals",
             "question": "Would you prefer not to have homosexuals as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3480,7 +3480,7 @@
             }
         },
         "Q23": {
-            "description": "Neighbors: People of a different religion",
+            "description": "Ok if Neighbors are: People of a different religion",
             "question": "Would you prefer not to have people of a different religion as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3492,7 +3492,7 @@
             }
         },
         "Q24": {
-            "description": "Neighbors: Heavy drinkers",
+            "description": "Ok if Neighbors are: Heavy drinkers",
             "question": "Would you prefer not to have heavy drinkers as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3504,7 +3504,7 @@
             }
         },
         "Q25": {
-            "description": "Neighbors: Unmarried couples living together",
+            "description": "Ok if Neighbors are: Unmarried couples living together",
             "question": "Would you prefer not to have unmarried couples living together as neighbors?",
             "values": {
                 "1": "Yes",
@@ -3516,7 +3516,7 @@
             }
         },
         "Q26": {
-            "description": "Neighbors: People who speak a different language",
+            "description": "Ok if Neighbors are: People who speak a different language",
             "question": "Would you prefer not to have people who speak a different language as neighbors?",
             "values": {
                 "1": "Yes",
