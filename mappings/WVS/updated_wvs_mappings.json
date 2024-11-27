@@ -7935,7 +7935,7 @@
             }
         },
         "Q241": {
-            "description": "Democracy: Governments tax the rich and subsidize the poor",
+            "description": "Is an Essential feature of Democracy: Governments tax the rich and subsidize the poor",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is governments tax the rich and subsidize the poor as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -7956,7 +7956,7 @@
             }
         },
         "Q242": {
-            "description": "Democracy: Religious authorities interpret the laws",
+            "description": "Is an Essential feature of Democracy: Religious authorities interpret the laws",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is religious authorities interpret the laws as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -7977,7 +7977,7 @@
             }
         },
         "Q243": {
-            "description": "Democracy: People choose their leaders in free elections",
+            "description": "Is an Essential feature of Democracy: People choose their leaders in free elections",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is people choose their leaders in free elections as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -7998,7 +7998,7 @@
             }
         },
         "Q244": {
-            "description": "Democracy: People receive state aid for unemployment",
+            "description": "Is an Essential feature of Democracy: People receive state aid for unemployment",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is people receive state aid for unemployment as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8019,7 +8019,7 @@
             }
         },
         "Q245": {
-            "description": "Democracy: The army takes over when government is incompetent",
+            "description": "Is an Essential feature of Democracy: The army takes over when government is incompetent",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is the army takes over when government is incompetent as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8040,7 +8040,7 @@
             }
         },
         "Q246": {
-            "description": "Democracy: Civil rights protect people’s liberty against oppression",
+            "description": "Is an Essential feature of Democracy: Civil rights protect people’s liberty against oppression",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is civil rights protect people’s liberty from state oppression as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8061,7 +8061,7 @@
             }
         },
         "Q247": {
-            "description": "Democracy: The state makes people´s incomes equal",
+            "description": "Is an Essential feature of Democracy: The state makes people´s incomes equal",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is the state makes people´s incomes equal as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8082,7 +8082,7 @@
             }
         },
         "Q248": {
-            "description": "Democracy: People obey their rulers",
+            "description": "Is an Essential feature of Democracy: People obey their rulers",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is people obey their rulers as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8103,7 +8103,7 @@
             }
         },
         "Q249": {
-            "description": "Democracy: Women have the same rights as men",
+            "description": "Is an Essential feature of Democracy: Women have the same rights as men",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is women have the same rights as men as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
