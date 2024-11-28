@@ -1,6 +1,6 @@
 {
     "Demographic and Socioeconomic Variables": {
-        "N_Region_ISO": {
+        "N_REGION_ISO": {
             "description": "ISO 3166-2 regional classification",
             "question": "What is the ISO 3166-2 region code?",
             "values": {
