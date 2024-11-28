@@ -2612,7 +2612,7 @@
         },
         "Q288": {
             "description": "Scale of incomes",
-            "question": "On this card is an income scale on which 1 indicates the lowest income group and 10 the highest income group in your country. We would like to know in what group your household is. Please, specify the appropriate number, counting all wages, salaries, pensions and other incomes that come in.",
+            "question": "What is the level of your household's income counting all wages, salaries, pensions and other incomes on an income scale on which 1 indicates the lowest income group and 10 the highest income group in your country",
             "values": {
                 "1": "Lower step",
                 "2": "second step",
@@ -3831,7 +3831,7 @@
             }
         },
         "Q48": {
-            "description": "How much freedom of choice and control",
+            "description": "How much freedom of choice and control (scale 1 for 'none' to 10 for 'a great deal')",
             "question": "Some people feel they have completely free choice and control over their lives, while other people feel that what they do has no real effect on what happens to them. Please use this scale where 1 means \"none at all\" and 10 means \"a great deal\" to indicate how much freedom of choice and control you feel you have over the way your life turns out.",
             "values": {
                 "10": "A great deal",
@@ -3851,7 +3851,7 @@
             }
         },
         "Q49": {
-            "description": "Satisfaction with your life",
+            "description": "Satisfaction with your life (scale 1 for 'completely dissatisfied' to 10 for ' completely satisfied')",
             "question": "All things considered, how satisfied are you with your life as a whole these days?",
             "values": {
                 "10": "Completely satisfied",
@@ -3871,7 +3871,7 @@
             }
         },
         "Q50": {
-            "description": "Satisfaction with financial situation of household",
+            "description": "Satisfaction with financial situation of household (scale 1 for 'dissatisfied' to 10 for 'satisfied')",
             "question": "How satisfied are you with the financial situation of your household? If '1' means you are completely dissatisfied on this scale, and '10' means you are completely satisfied, where would you put your satisfaction with your household's financial situation?",
             "values": {
                 "1": "Dissatisfied",
@@ -4882,7 +4882,7 @@
     },
     "Economic Values": {
         "Q106": {
-            "description": "Income equality vs larger income differences",
+            "description": "Income equality vs larger income differences (scale 1 for 'equality to 10 for 'large differences')",
             "question": "On a scale from 1 to 10, where 1 means 'Incomes should be made more equal.' and 10 means 'We need larger income differences as incentives for individual effort.', where would you place your views?",
             "values": {
                 "1": "Incomes more equal",
@@ -4902,7 +4902,7 @@
             }
         },
         "Q107": {
-            "description": "Private vs state ownership of business",
+            "description": "Private vs state ownership of business (scale 1 for 'private should increase' to 10 for 'state/government should increase')",
             "question": "On a scale from 1 to 10, where 1 means 'Private ownership of business and industry should be increased.' and 10 means 'Government ownership of business and industry should be increased.', where would you place your views?",
             "values": {
                 "1": "Private ownership of business should be increased",
@@ -4922,7 +4922,7 @@
             }
         },
         "Q108": {
-            "description": "Government´s vs individual´s responsibility",
+            "description": "Government´s vs individual´s responsibility (scale 1 for 'government's responsibility' to 10 'individual')",
             "question": "On a scale from 1 to 10, where 1 means 'People should take more responsibility to provide for themselves.' and 10 means 'The government should take more responsibility to ensure that everyone is provided for.', where would you place your views?",
             "values": {
                 "1": "The government should take more responsibility to ensure that everyone is provided for",
@@ -4942,7 +4942,7 @@
             }
         },
         "Q109": {
-            "description": "Competition good or harmful",
+            "description": "Competition good or harmful (scale 1 for 'good' to 10 for 'harmful')",
             "question": "On a scale from 1 to 10, where 1 means 'Competition is good. It stimulates people to work hard and develop new ideas.' and 10 means 'Competition is harmful. It brings out the worst in people.', where would you place your views?",
             "values": {
                 "1": "Competition is good",
@@ -4962,7 +4962,7 @@
             }
         },
         "Q110": {
-            "description": "Success: hard work vs luck",
+            "description": "Success: hard work vs luck (scale 1 for 'work brings better life' to 10 for 'success comes from luck and connections, not work')",
             "question": "On a scale from 1 to 10, where 1 means 'In the long run, hard work usually brings a better life.' and 10 means 'Hard work doesn't generally bring success—it's more a matter of luck and connections.', where would you place your views?",
             "values": {
                 "1": "In the long run, hard work usually brings a better life",
@@ -4997,7 +4997,7 @@
     },
     "Perceptions of Corruption": {
         "Q112": {
-            "description": "Perceptions of corruption in the country",
+            "description": "Perceptions of corruption in the country (scale 1 for 'no corruption' to 10 'corruption is abundant')",
             "question": "Now I'd like you to tell me your views on corruption – when people pay a bribe, give a gift or do a favor to other people in order to get the things they need done or the services they need. How would you place your views on corruption in your country on a 10 -point scale where “1” means “there is no corruption in this country” and “10” means “there is abundant corruption in this country”. If your views are somewhat mixed, choose the appropriate number in between.",
             "values": {
                 "1": "1",
@@ -5114,7 +5114,7 @@
             }
         },
         "Q120": {
-            "description": "Risk to be held accountable for giving or receiving a bribe",
+            "description": "Risk to be held accountable for giving or receiving a bribe (scale 1 for 'no risk at all' to 10 for 'very high risk')",
             "question": "How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favour in return for public service? To indicate your opinion, use a 10 -point scale where “1” means “no risk at all” and “10” means “very high risk”.",
             "values": {
                 "1": "No risk at all",
@@ -5639,7 +5639,7 @@
     },
     "Perceptions about Science and Technology": {
         "Q158": {
-            "description": "Science and technology are making our lives healthier, easier, and more comfortable",
+            "description": "Science and technology are making our lives healthier, easier, and more comfortable (scale 1 for 'disagree completely' to 10 for 'agree completely')",
             "question": "On a scale from 1 to 10, where 1 means 'completely disagree' and 10 means 'completely agree', how much do you agree or disagree with the following statement: 'Science and technology are making our lives healthier, easier, and more comfortable'?",
             "values": {
                 "1": "Completely disagree",
@@ -5659,7 +5659,7 @@
             }
         },
         "Q159": {
-            "description": "Because of science and technology, there will be more opportunities for the next generation",
+            "description": "Because of science and technology, there will be more opportunities for the next generation (scale 1 for 'disagree completely' to 10 for 'agree completely')",
             "question": "On a scale from 1 to 10, where 1 means 'completely disagree' and 10 means 'completely agree', how much do you agree or disagree with the following statement: 'Because of science and technology, there will be more opportunities for the next generation'?",
             "values": {
                 "1": "Completely disagree",
@@ -5679,7 +5679,7 @@
             }
         },
         "Q160": {
-            "description": "We depend too much on science and not enough on faith",
+            "description": "We depend too much on science and not enough on faith (scale 1 for 'disagree completely' to 10 for 'agree completely')",
             "question": "On a scale from 1 to 10, where 1 means 'completely disagree' and 10 means 'completely agree', how much do you agree or disagree with the following statement: 'We depend too much on science and not enough on faith'?",
             "values": {
                 "1": "Completely disagree",
@@ -5699,7 +5699,7 @@
             }
         },
         "Q161": {
-            "description": "One of the bad effects of science is that it breaks down people’s ideas of right and wrong",
+            "description": "One of the bad effects of science is that it breaks down people’s ideas of right and wrong (scale 1 for 'disagree completely' to 10 for 'agree completely')",
             "question": "On a scale from 1 to 10, where 1 means 'completely disagree' and 10 means 'completely agree', how much do you agree or disagree with the following statement: 'One of the bad effects of science is that it breaks down people’s ideas of right and wrong'?",
             "values": {
                 "1": "Completely disagree",
@@ -5719,7 +5719,7 @@
             }
         },
         "Q162": {
-            "description": "It is not important for me to know about science in my daily life",
+            "description": "It is not important for me to know about science in my daily life (scale 1 for 'disagree completely' to 10 for 'agree completely')",
             "question": "On a scale from 1 to 10, where 1 means 'completely disagree' and 10 means 'completely agree', how much do you agree or disagree with the following statement: 'It is not important for me to know about science in your daily life'?",
             "values": {
                 "1": "Completely disagree",
@@ -5739,12 +5739,18 @@
             }
         },
         "Q163": {
-            "description": "The world is better off, or worse off, because of science and technology",
+            "description": "The world is better off (10 on the scale), or worse off (1 on the scale), because of science and technology",
             "question": "All things considered, would you say that the world is better off, or worse off, because of science and technology? Please tell me which comes closest to your view on this scale: 1 means that “the world is a lot worse off,” and 10 means that “the world is a lot better off.” The world is better off, or worse off, because of science and technology",
             "values": {
                 "1": "A lot worse off",
                 "2": "2",
                 "3": "3",
+                "4": "4",
+                "5": "5",
+                "6": "6",
+                "7": "7",
+                "8": "8",
+                "9": "9",
                 "10": "the world is a lot better off"
             }
         }
@@ -5935,7 +5941,7 @@
     },
     "Ethical Values": {
         "Q176": {
-            "description": "Degree of agreement: Nowadays one often has trouble deciding which moral rules are the right ones to follow",
+            "description": "Degree of agreement (scale 1 for 'completely agree' to 10 for 'completely disagree'): Nowadays one often has trouble deciding which moral rules are the right ones to follow",
             "question": "How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?",
             "values": {
                 "1": "Completely agree",
@@ -5955,7 +5961,7 @@
             }
         },
         "Q177": {
-            "description": "Justifiable: Claiming government benefits to which you are not entitled",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Claiming government benefits to which you are not entitled",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think claiming government benefits to which you are not entitled is?",
             "values": {
                 "1": "Never justifiable",
@@ -5975,7 +5981,7 @@
             }
         },
         "Q178": {
-            "description": "Justifiable: Avoiding a fare on public transport",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Avoiding a fare on public transport",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think avoiding a fare on public transport is?",
             "values": {
                 "1": "Never justifiable",
@@ -5995,7 +6001,7 @@
             }
         },
         "Q179": {
-            "description": "Justifiable: Stealing property",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Stealing property",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think stealing property is?",
             "values": {
                 "1": "Never justifiable",
@@ -6015,7 +6021,7 @@
             }
         },
         "Q180": {
-            "description": "Justifiable: Cheating on taxes",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Cheating on taxes",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think cheating on taxes if you have a chance is?",
             "values": {
                 "1": "Never justifiable",
@@ -6035,7 +6041,7 @@
             }
         },
         "Q181": {
-            "description": "Justifiable: Someone accepting a bribe in the course of their duties",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Someone accepting a bribe in the course of their duties",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think someone accepting a bribe in the course of their duties is?",
             "values": {
                 "1": "Never justifiable",
@@ -6055,7 +6061,7 @@
             }
         },
         "Q182": {
-            "description": "Justifiable: Homosexuality",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Homosexuality",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think homosexuality is?",
             "values": {
                 "1": "Never justifiable",
@@ -6075,7 +6081,7 @@
             }
         },
         "Q183": {
-            "description": "Justifiable: Prostitution",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Prostitution",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think prostitution is?",
             "values": {
                 "1": "Never justifiable",
@@ -6095,7 +6101,7 @@
             }
         },
         "Q184": {
-            "description": "Justifiable: Abortion",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Abortion",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think abortion is?",
             "values": {
                 "1": "Never justifiable",
@@ -6115,7 +6121,7 @@
             }
         },
         "Q185": {
-            "description": "Justifiable: Divorce",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Divorce",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think divorce is?",
             "values": {
                 "1": "Never justifiable",
@@ -6135,7 +6141,7 @@
             }
         },
         "Q186": {
-            "description": "Justifiable: Sex before marriage",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Sex before marriage",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think sex before marriage is?",
             "values": {
                 "1": "Never justifiable",
@@ -6155,7 +6161,7 @@
             }
         },
         "Q187": {
-            "description": "Justifiable: Suicide",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Suicide",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think suicide is?",
             "values": {
                 "1": "Never justifiable",
@@ -6175,7 +6181,7 @@
             }
         },
         "Q188": {
-            "description": "Justifiable: Euthanasia",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Euthanasia",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think euthanasia is?",
             "values": {
                 "1": "Never justifiable",
@@ -6195,7 +6201,7 @@
             }
         },
         "Q189": {
-            "description": "Justifiable: For a man to beat his wife",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): For a man to beat his wife",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think for a man to beat his wife is?",
             "values": {
                 "1": "Never justifiable",
@@ -6215,7 +6221,7 @@
             }
         },
         "Q190": {
-            "description": "Justifiable: Parents beating children",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Parents beating children",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think parents beating children is?",
             "values": {
                 "1": "Never justifiable",
@@ -6235,7 +6241,7 @@
             }
         },
         "Q191": {
-            "description": "Justifiable: Violence against other people",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Violence against other people",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think violence against other people is?",
             "values": {
                 "1": "Never justifiable",
@@ -6255,7 +6261,7 @@
             }
         },
         "Q192": {
-            "description": "Justifiable: Terrorism as a political, ideological or religious mean",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Terrorism as a political, ideological or religious mean",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think terrorism as a political, ideological or religious mean is?",
             "values": {
                 "1": "Never justifiable",
@@ -6275,7 +6281,7 @@
             }
         },
         "Q193": {
-            "description": "Justifiable: Having casual sex",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Having casual sex",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think having casual sex is?",
             "values": {
                 "1": "Never justifiable",
@@ -6295,7 +6301,7 @@
             }
         },
         "Q194": {
-            "description": "Justifiable: Political violence",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Political violence",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think political violence is?",
             "values": {
                 "1": "Never justifiable",
@@ -6315,7 +6321,7 @@
             }
         },
         "Q195": {
-            "description": "Justifiable: Death penalty",
+            "description": "Justifiable (scale 1 for 'never' - 10 for 'always'): Death penalty",
             "question": "On a scale from 1 to 10, where 1 means 'Never justifiable' and 10 means 'Always justifiable', how justifiable do you think death penalty is?",
             "values": {
                 "1": "Never justifiable",
@@ -7916,7 +7922,7 @@
             }
         },
         "Q240": {
-            "description": "Left-right political scale",
+            "description": "Left-right political scale (1 for 'left' - 10 for 'right')",
             "question": "In political matters, people talk of \"the left\" and \"the right.\" How would you place your views on this scale, generally speaking?",
             "values": {
                 "1": "Left",
@@ -7936,7 +7942,7 @@
             }
         },
         "Q241": {
-            "description": "Is an Essential feature of Democracy: Governments tax the rich and subsidize the poor",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): Governments tax the rich and subsidize the poor",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is governments tax the rich and subsidize the poor as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -7957,7 +7963,7 @@
             }
         },
         "Q242": {
-            "description": "Is an Essential feature of Democracy: Religious authorities interpret the laws",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): Religious authorities interpret the laws",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is religious authorities interpret the laws as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -7978,7 +7984,7 @@
             }
         },
         "Q243": {
-            "description": "Is an Essential feature of Democracy: People choose their leaders in free elections",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): People choose their leaders in free elections",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is people choose their leaders in free elections as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -7999,7 +8005,7 @@
             }
         },
         "Q244": {
-            "description": "Is an Essential feature of Democracy: People receive state aid for unemployment",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): People receive state aid for unemployment",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is people receive state aid for unemployment as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8020,7 +8026,7 @@
             }
         },
         "Q245": {
-            "description": "Is an Essential feature of Democracy: The army takes over when government is incompetent",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): The army takes over when government is incompetent",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is the army takes over when government is incompetent as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8041,7 +8047,7 @@
             }
         },
         "Q246": {
-            "description": "Is an Essential feature of Democracy: Civil rights protect people’s liberty against oppression",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): Civil rights protect people’s liberty against oppression",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is civil rights protect people’s liberty from state oppression as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8062,7 +8068,7 @@
             }
         },
         "Q247": {
-            "description": "Is an Essential feature of Democracy: The state makes people´s incomes equal",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): The state makes people´s incomes equal",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is the state makes people´s incomes equal as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8083,7 +8089,7 @@
             }
         },
         "Q248": {
-            "description": "Is an Essential feature of Democracy: People obey their rulers",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): People obey their rulers",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is people obey their rulers as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8104,7 +8110,7 @@
             }
         },
         "Q249": {
-            "description": "Is an Essential feature of Democracy: Women have the same rights as men",
+            "description": "Is an Essential feature of Democracy (1 for 'not' to 10 for 'essential'): Women have the same rights as men",
             "question": "On a scale from 1 ('not at all essential') to 10 ('essential'), how essential is women have the same rights as men as a characteristic of democracy?",
             "values": {
                 "0": "It is against democracy (spontaneous)",
@@ -8125,7 +8131,7 @@
             }
         },
         "Q250": {
-            "description": "Importance of democracy",
+            "description": "Importance of democracy (1 for 'not' to 10 for 'absolutely')",
             "question": "How important is it for you to live in a country that is governed democratically? On this scale where 1 means it is “not at all important” and 10 means “absolutely important” what position would you choose?",
             "values": {
                 "1": "Not at all important",
@@ -8145,7 +8151,7 @@
             }
         },
         "Q251": {
-            "description": "How democratically is this country being governed today",
+            "description": "How democratically is this country being governed today (1 for 'not at all' to 10 for 'completely')",
             "question": "And how democratically is this country being governed today?. Again using a scale from 1 to 10, where 1 means that it is “not at all democratic” and 10 means that it is “completely democratic,” what position would you choose?",
             "values": {
                 "1": "Not at all democratic",
@@ -8165,7 +8171,7 @@
             }
         },
         "Q252": {
-            "description": "Satisfaction with the political system performance",
+            "description": "Satisfaction with the political system performance (1 for 'not at all' to 10 for 'completely')",
             "question": "How satisfied are you with how the political system is functioning in your country these days? On the scale from 1 to 10 below, 1 means not satisfied at all and 10 means completely satisfied.",
             "values": {
                 "1": "Not satisfied at all",
@@ -8779,7 +8785,7 @@
             }
         },
         "Q293": {
-            "description": "How much you trust the Head of State in this country?",
+            "description": "How much you trust the Head of State in this country (1 for 'not at all' to 10 for 'completely')?",
             "question": "Using a 10 -point scale, can you please tell me how much you trust [name of the Head of State – President or Prime Minister] where 0 means “no trust at all” and 10 means “a great deal of trust”?",
             "values": {
                 "0": "No trust at all",
