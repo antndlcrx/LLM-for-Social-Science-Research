@@ -8213,7 +8213,7 @@
         },
         "Q255": {
             "description": "Feel close to your village, town or city",
-            "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how close do you feel to…? Your village, town or city",
+            "question": "How close do you feel to your village, town or city?",
             "values": {
                 "1": "Very close",
                 "2": "Close",
@@ -8227,7 +8227,7 @@
         },
         "Q256": {
             "description": "Feel close to your district, region",
-            "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? Your county, region, district",
+            "question": "How close do you feel to your region or district?",
             "values": {
                 "1": "Very close",
                 "2": "Close",
@@ -8241,7 +8241,7 @@
         },
         "Q257": {
             "description": "Feel close to your country",
-            "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? Country",
+            "question": "How close do you feel to your country?",
             "values": {
                 "1": "Very close",
                 "2": "Close",
@@ -8255,7 +8255,7 @@
         },
         "Q258": {
             "description": "Feel close to your continent",
-            "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how close do you feel to…? Continent; e.g. Europe, Asia etc.",
+            "question": "How close do you feel to [your continent]?",
             "values": {
                 "1": "Very close",
                 "2": "Close",
@@ -8269,7 +8269,7 @@
         },
         "Q259": {
             "description": "Feel close to the world",
-            "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? World",
+            "question": "How close do you feel to the World?",
             "values": {
                 "1": "Very close",
                 "2": "Close",
