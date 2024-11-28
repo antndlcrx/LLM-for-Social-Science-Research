@@ -2632,7 +2632,7 @@
         },
         "Q289CS": {
             "description": "Religious denomination - detailed list",
-            "question": "Do you belong to a religion or religious denomination? If yes, which one? Country -specific list of codes in Annex",
+            "question": "Do you belong to a religion or religious denomination? If yes, which one?",
             "values": {
                 "-5": "Other missing",
                 "-4": "Item not included",
@@ -2751,7 +2751,7 @@
         },
         "Q290": {
             "description": "Racial belonging/ ethnic group",
-            "question": "Racial belonging/ ethnic group Country -specific list of codes in Annex",
+            "question": "Racial belonging/ ethnic group Country",
             "values": {
                 "-5": "Missing; Not specified",
                 "-4": "Not asked",
@@ -4324,7 +4324,7 @@
             }
         },
         "Q82": {
-            "description": "Confidence: Major regional organization (combined from country -specific)",
+            "description": "Confidence: Major regional organization",
             "question": "How much confidence do you have in <major regional organization>?",
             "values": {
                 "1": "A great deal",
@@ -4339,7 +4339,7 @@
         },
         "Q82_AFRICANUNION": {
             "description": "Confidence: The African Union (AU)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The African Union (AU)  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The African Union (AU)",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4353,7 +4353,7 @@
         },
         "Q82_APEC": {
             "description": "Confidence: The Asia -Pacific Economic Cooperation (APEC)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The APEC  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The APEC",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4367,7 +4367,7 @@
         },
         "Q82_ARABLEAGUE": {
             "description": "Confidence: The Arab League",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Arab League  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Arab League",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4381,7 +4381,7 @@
         },
         "Q82_ASEAN": {
             "description": "Confidence: The Association of South East Asian Nations (ASEAN)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Association of South East Asian Nations -ASEAN    Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Association of South East Asian Nations -ASEAN",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4395,7 +4395,7 @@
         },
         "Q82_CIS": {
             "description": "Confidence: Commonwealth of Independent States (CIS)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? CIS  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? CIS",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4409,7 +4409,7 @@
         },
         "Q82_CUSMA": {
             "description": "Confidence: The Canada -United States -Mexico Agreement (CUSMA)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Canada -United States -Mexico Agreement (CUSMA)  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Canada -United States -Mexico Agreement (CUSMA)",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4423,7 +4423,7 @@
         },
         "Q82_ECO": {
             "description": "Economic Cooperation Organization",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Economic Cooperation Organization  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Economic Cooperation Organization",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4437,7 +4437,7 @@
         },
         "Q82_EU": {
             "description": "Confidence: The European Union (EU)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The European Union  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The European Union",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4450,7 +4450,7 @@
         },
         "Q82_GULFCOOP": {
             "description": "Confidence: Cooperation Council for the Arab states of Gulf (GCC)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Cooperation Council for the Arab states of Gulf (GCC)   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Cooperation Council for the Arab states of Gulf (GCC)",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4463,7 +4463,7 @@
         },
         "Q82_ISLCOOP": {
             "description": "Confidence: The Organization of the Islamic Cooperation",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Organization of the Islamic Cooperation   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Organization of the Islamic Cooperation",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4476,7 +4476,7 @@
         },
         "Q82_MERCOSUR": {
             "description": "Confidence: The Mercosur",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Mercosur    Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Mercosur",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4489,7 +4489,7 @@
         },
         "Q82_NAFTA": {
             "description": "Confidence: The North American Free Trade Agreement (NAFTA)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The NAFTA   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The NAFTA",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4502,7 +4502,7 @@
         },
         "Q82_OAS": {
             "description": "Confidence: The Organization of American States (OA S)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Organization of American States (OA S)   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Organization of American States (OA S)",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4515,7 +4515,7 @@
         },
         "Q82_SAARC": {
             "description": "Confidence: The South Asian Association for Regional Cooperation (SAARC)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The SAARC  Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The SAARC",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4528,7 +4528,7 @@
         },
         "Q82_SCO": {
             "description": "Confidence: The Shanghai Cooperation Organization (SCO)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?: The Shanghai Cooperation Organization   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?: The Shanghai Cooperation Organization",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4542,7 +4542,7 @@
         },
         "Q82_TLC": {
             "description": "Confidence: The Free Commerce Treaty (Tratado de libre comercio)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Free Commerce Treaty (Tratado de libre comercio)   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Free Commerce Treaty (Tratado de libre comercio)",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
@@ -4555,7 +4555,7 @@
         },
         "Q82_UNDP": {
             "description": "Confidence: United Nations Development Programme (UNDP)",
-            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? UNDP United Nations Development Programme   Country -specific question",
+            "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? UNDP United Nations Development Programme",
             "values": {
                 "1": "A great deal",
                 "2": "Quite a lot",
