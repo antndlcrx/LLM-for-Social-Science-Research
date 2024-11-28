@@ -4685,8 +4685,8 @@
             }
         },
         "Q91": {
-            "description": "Countries with the permanent seats on the UN Security Council",
-            "question": "Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me. Five countries have permanent seats on the Security Council of the United Nations. Which ones of the following is not a member?",
+            "description": "Which country does not have a permanent seat on the UN Security Council: France, China, India?",
+            "question": "Which of the following countries does not have a permanent seat on the UN Security Council: France, China, India?",
             "values": {
                 "1": "France",
                 "2": "China",
@@ -4699,7 +4699,7 @@
         },
         "Q92": {
             "description": "Where are the headquarters of the International Monetary Fund (IMF) located?",
-            "question": "Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me. Where are the headquarters of the International Monetary Fund (IMF) located?",
+            "question": "Where are the headquarters of the International Monetary Fund (IMF) located?",
             "values": {
                 "1": "Washington DC",
                 "2": "London",
@@ -4712,7 +4712,7 @@
         },
         "Q93": {
             "description": "Which of the following problems does the organization Amnesty International deal with?",
-            "question": "Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me. Which of the following problems does the organization Amnesty International deal with?",
+            "question": "Which of the following problems does the organization Amnesty International deal with?",
             "values": {
                 "1": "Climate change",
                 "2": "Human rights",
