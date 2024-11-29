@@ -2348,7 +2348,7 @@
         },
         "Q273": {
             "description": "Marital status",
-            "question": "Are you currently ....",
+            "question": "What is your marital status?",
             "values": {
                 "1": "Married",
                 "2": "Living together as married",
@@ -3803,7 +3803,7 @@
     "Happiness and Wellbeing": {
         "Q46": {
             "description": "Feeling of happiness",
-            "question": "Taking all things together, would you say you are:",
+            "question": "Taking all things together, how happy are you?",
             "values": {
                 "1": "Very happy",
                 "2": "Quite happy",
@@ -5903,7 +5903,7 @@
         },
         "Q173": {
             "description": "Religious person",
-            "question": "Independently of whether you go to church or not, would you say you are…",
+            "question": "Independently of whether you go to church or not, would you say you are a religious person?",
             "values": {
                 "1": "A religious person",
                 "2": "Not a religious person",
