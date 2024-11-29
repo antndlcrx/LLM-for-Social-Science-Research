@@ -1620,7 +1620,7 @@
         },
         "Q266": {
             "description": "Country of birth: Respondent",
-            "question": "In which country were you born? List of codes in Annex",
+            "question": "In which country were you born?",
             "values": {
                 "-5": "Missing; Unknown",
                 "-4": "Not asked",
@@ -1791,7 +1791,7 @@
         },
         "Q267": {
             "description": "Country of birth: Mother of the respondent",
-            "question": "In which country was your mother born? List of codes in Annex",
+            "question": "In which country was your mother born?",
             "values": {
                 "-5": "Missing; Unknown",
                 "-4": "Not asked",
@@ -2176,7 +2176,7 @@
         },
         "Q272": {
             "description": "Language at home",
-            "question": "What language do you normally speak at home? Codes are available in the Annex",
+            "question": "What language do you normally speak at home?",
             "values": {
                 "-5": "Missing; Not available",
                 "-4": "Not asked",
@@ -2493,7 +2493,7 @@
         },
         "Q281": {
             "description": "Respondent - Occupational group",
-            "question": "To which of the following occupational groups do you belong?",
+            "question": "To which occupational group do you belong?",
             "values": {
                 "0": "Never had a job",
                 "1": "Professional and technical (for example: doctor, teacher, engineer, artist, accountant, nurse)",
@@ -2515,7 +2515,7 @@
         },
         "Q282": {
             "description": "Respondent´s Spouse - Occupational group",
-            "question": "To which of the following occupational groups does your spouse belong?",
+            "question": "To which occupational group does your spouse belong?",
             "values": {
                 "0": "Never had a job",
                 "1": "Professional and technical (for example: doctor, teacher, engineer, artist, accountant, nurse)",
@@ -2585,7 +2585,7 @@
         },
         "Q286": {
             "description": "Family savings during past year",
-            "question": "During the past year, did your family…",
+            "question": "During the past year, what was the situation with your family's savings?",
             "values": {
                 "1": "Save money",
                 "2": "Just get by",
@@ -2751,7 +2751,7 @@
         },
         "Q290": {
             "description": "Racial belonging/ ethnic group",
-            "question": "Racial belonging/ ethnic group Country",
+            "question": "How do you identify when it comes to Racial belonging/ ethnic group in Country?",
             "values": {
                 "-5": "Missing; Not specified",
                 "-4": "Not asked",
@@ -3817,7 +3817,7 @@
         },
         "Q47": {
             "description": "State of health (subjective)",
-            "question": "All in all, how would you describe your state of health these days? Would you say it is...",
+            "question": "All in all, how would you describe your state of health these days?",
             "values": {
                 "1": "Very good",
                 "2": "Good",
@@ -5887,20 +5887,6 @@
                 "-5": "Missing; Not available"
             }
         },
-        "Q172R": {
-            "description": "How often do you pray (Constructed)",
-            "question": "Recoded variable Q172",
-            "values": {
-                "1": "Once or more times a day",
-                "2": "Once or several times a week",
-                "3": "Once or several times a year",
-                "4": "Less often or never",
-                "-1": "Don´t know",
-                "-2": "No answer",
-                "-4": "Not asked",
-                "-5": "Missing; Not available"
-            }
-        },
         "Q173": {
             "description": "Religious person",
             "question": "Independently of whether you go to church or not, would you say you are a religious person?",
@@ -6688,7 +6674,7 @@
         },
         "Q221": {
             "description": "Vote in elections: local level",
-            "question": "Vote in elections: Local level",
+            "question": "How often do you vote in elections: Local level",
             "values": {
                 "1": "Always",
                 "2": "Usually",
@@ -6701,7 +6687,7 @@
         },
         "Q222": {
             "description": "Vote in elections: National level",
-            "question": "Vote in elections: National level",
+            "question": "How often do you vote in elections: National level",
             "values": {
                 "1": "Always",
                 "2": "Usually",
